@@ -36,10 +36,12 @@ appointments["visit_duration_minutes"] = ( appointments["visit_end_time"] - appo
 
 # Handle negative values
 
-appointments = appointments[
+# Instead of dropping, flag them
+appointments["is_valid"] = (
     (appointments["wait_time_minutes"] >= 0) & 
     (appointments["visit_duration_minutes"] >= 0)
-]
+)
+# All rows stay → no foreign key conflicts
 
 appointments.to_csv(
     "../data/cleaned/appointments_cleaned.csv",
@@ -104,3 +106,17 @@ billing.to_csv(
 )
 
 print("\nbilling_cleaned.csv saved")
+
+
+# Check which appointment_ids were dropped
+original = pd.read_csv("../data/raw/appointments.csv")
+cleaned = pd.read_csv("../data/cleaned/appointments_cleaned.csv")
+
+dropped_ids = set(original["appointment_id"]) - set(cleaned["appointment_id"])
+print(f"Dropped appointment_ids: {dropped_ids}")
+
+# Then check if any of those exist in billing
+billing = pd.read_csv("../data/raw/billing.csv")
+conflict = billing[billing["appointment_id"].isin(dropped_ids)]
+print(f"Billing rows affected: {len(conflict)}")
+print(conflict)
