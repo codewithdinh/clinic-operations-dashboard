@@ -33,6 +33,7 @@ patients_df.to_csv(
 
 print("patients.cvs generated")
 
+
 # Generate providers data: provider_id, provider_name, specialty
 
 NUM_PROVIDERS = 25
@@ -62,3 +63,78 @@ providers_df.to_csv(
 )
 
 print("providers.csv generated")
+
+
+# Generate appointments data
+
+from datetime import datetime, timedelta
+
+NUM_APPOINTMENTS = 1000
+
+appointments = []
+
+statuses = [
+    "Completed",
+    "Cancelled",
+    "No Show"
+]
+
+start_date = datetime(2025, 1, 1)
+
+for appointment_id in range(1, NUM_APPOINTMENTS + 1):
+    patient_id = random.randint(1, NUM_PATIENTS)
+
+    provider_id = random.randint(1, NUM_PROVIDERS)
+
+    appointment_date = start_date + timedelta(
+        days=random.randint(0, 180))
+    
+    scheduled_time = appointment_date.replace(
+        hour=random.randint(8, 16),
+        minute=random.choice([0, 15, 30, 45])
+    )
+
+    status = random.choices(
+        statuses,
+        weights=[75, 10, 15]
+    )[0]
+
+    if status == "Completed":
+
+        check_in_time = scheduled_time + timedelta(
+            minutes=random.randint(-10, 15)
+        )
+
+        visit_start_time = check_in_time + timedelta(
+            minutes=random.randint(5, 60)
+        )
+
+        visit_end_time = visit_start_time + timedelta(
+            minutes=random.randint(15, 90)
+        )
+    
+    else:
+        check_in_time = None
+        visit_start_time = None
+        visit_end_time = None
+
+    appointments.append({
+        "appointment_id": appointment_id,
+        "patient_id": patient_id,
+        "provider_id": provider_id,
+        "appointment_date": appointment_date,
+        "scheduled_time": scheduled_time,
+        "check_in_time": check_in_time,
+        "visit_start_time": visit_start_time,
+        "visit_end_time": visit_end_time,
+        "status": status
+    })
+
+appointments_df = pd.DataFrame(appointments)
+
+appointments_df.to_csv(
+        "../data/raw/appointments.csv",
+        index=False
+    )
+
+print("appointments.csv generated")
