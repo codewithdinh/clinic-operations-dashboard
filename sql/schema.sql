@@ -16,7 +16,7 @@ CREATE TABLE appointments (
     appointment_id INT PRIMARY KEY,
     patient_id INT,
     provider_id INT,
-    appointment_date TIMESTAMP,
+    appointment_date DATE,
     scheduled_time TIMESTAMP,
     check_in_time TIMESTAMP,
     visit_start_time TIMESTAMP,
@@ -27,12 +27,12 @@ CREATE TABLE appointments (
     REFERENCES patients(patient_id),
 
     FOREIGN KEY (provider_id)
-    REFERENCES patients(provider_id)
+    REFERENCES providers(provider_id)
 );
 
 CREATE TABLE billing (
     billing_id INT PRIMARY KEY,
-    appointment_id INT PRIMARY KEY,
+    appointment_id INT,
     amount DECIMAL(10,2),
     paid_amount DECIMAL(10,2),
     payment_status VARCHAR(50),
