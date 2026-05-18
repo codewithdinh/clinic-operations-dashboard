@@ -138,3 +138,46 @@ appointments_df.to_csv(
     )
 
 print("appointments.csv generated")
+
+
+# Generate billing data: billing_id, appointment_id, amount, paid_amount, payment_status
+
+NUM_BILLING = NUM_APPOINTMENTS
+
+billing = []
+
+for billing_id in range(1, NUM_BILLING):
+
+    amount = random.randint(50, 1000)
+
+    payment_status = random.choices(
+        ["Paid", "Partial", "Unpaid"],
+        weights=[75, 15, 10]
+        )[0]
+
+    if payment_status == "Paid":
+        paid_amount = amount
+
+    elif payment_status == "Partial":
+        paid_amount = random.randint(1, amount - 50)
+
+    else:
+        paid_amount = 0
+
+    billing.append({
+        "billing_id": billing_id,
+        "appointment_id": billing_id,
+        "amount": amount,
+        "paid_amount": paid_amount,
+        "payment_status": payment_status
+    })
+
+billing_df = pd.DataFrame(billing)
+
+billing_df.to_csv(
+    "../data/raw/billing.csv",
+    index=False
+)
+
+print("billing.csv generated")
+
