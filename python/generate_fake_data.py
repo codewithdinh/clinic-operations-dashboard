@@ -146,7 +146,7 @@ NUM_BILLING = NUM_APPOINTMENTS
 
 billing = []
 
-for billing_id in range(1, NUM_BILLING):
+for billing_id in range(1, NUM_BILLING + 1):
 
     amount = random.randint(50, 1000)
 
