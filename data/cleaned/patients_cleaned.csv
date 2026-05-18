@@ -1,1001 +1,1001 @@
-patients_id,age,gender,city,insurance_type
-1,13,Male,Davidhaven,Medicaid
-2,71,Female,South Roger,Medicare
-3,82,Female,South Christinatown,Self-Pay
-4,2,Female,Petersonmouth,Medicare
-5,77,Female,Bairdfort,Private
-6,84,Female,North Scottville,Medicare
-7,51,Female,Clarkland,Private
-8,54,Male,North Heathermouth,Self-Pay
-9,76,Male,East Margaretfort,Medicare
-10,66,Male,West Jamesbury,Private
-11,80,Female,Brandonport,Medicaid
-12,32,Female,North Bradley,Medicaid
-13,11,Female,East Rebecca,Self-Pay
-14,26,Female,Georgeberg,Medicare
-15,65,Male,Thomasburgh,Private
-16,72,Male,Nashbury,Medicare
-17,25,Male,North Jeffrey,Medicaid
-18,57,Male,Lopezview,Medicaid
-19,35,Female,West Hunterbury,Medicare
-20,75,Male,Lake Daniel,Medicaid
-21,84,Female,Amberland,Private
-22,59,Male,Perezfort,Self-Pay
-23,1,Male,Davischester,Self-Pay
-24,75,Female,Port Michaelton,Private
-25,20,Male,Dennisberg,Private
-26,9,Male,South Makayla,Medicaid
-27,5,Male,Jessicaside,Medicaid
-28,27,Male,Hendersonton,Medicaid
-29,17,Male,Maryhaven,Medicaid
-30,36,Female,Cherylview,Medicaid
-31,2,Male,East Rebeccashire,Medicaid
-32,50,Male,South Benjamin,Self-Pay
-33,20,Male,South Larry,Self-Pay
-34,70,Male,Pricefurt,Medicare
-35,52,Male,South John,Medicaid
-36,23,Male,Christopherchester,Self-Pay
-37,45,Male,Lake Scott,Medicare
-38,32,Male,Mariestad,Medicare
-39,80,Male,New Sarabury,Medicare
-40,63,Female,North Christopher,Medicare
-41,53,Male,South Daniel,Self-Pay
-42,32,Male,North Jennifer,Private
-43,37,Female,Jeffreyland,Self-Pay
-44,80,Male,Lake Yolandastad,Medicaid
-45,86,Female,West Michael,Medicare
-46,87,Male,Johnsonshire,Private
-47,37,Male,Jenniferberg,Medicaid
-48,34,Female,Jonesbury,Self-Pay
-49,38,Female,Simmonsmouth,Self-Pay
-50,31,Male,North Zachary,Medicare
-51,4,Male,North Edwardville,Private
-52,40,Female,Williamsville,Medicare
-53,60,Female,Bobbyfurt,Medicare
-54,22,Male,Sullivanborough,Private
-55,7,Female,Thomasberg,Self-Pay
-56,20,Female,Scottfort,Medicaid
-57,70,Male,New Brianfort,Self-Pay
-58,15,Female,Lake Richardstad,Medicare
-59,84,Female,Richardfort,Medicare
-60,79,Male,South Gabrielleberg,Medicaid
-61,52,Male,Cummingsburgh,Medicaid
-62,31,Female,Paulburgh,Medicaid
-63,32,Male,Lake Edwardfurt,Private
-64,68,Female,Port Jessicaberg,Medicare
-65,63,Male,New Anthonytown,Self-Pay
-66,28,Female,Hartmanchester,Self-Pay
-67,40,Male,Brianberg,Medicare
-68,84,Female,Terristad,Private
-69,67,Female,Amandatown,Medicaid
-70,43,Male,North Jenniferstad,Self-Pay
-71,14,Female,Smithfurt,Medicare
-72,78,Female,Aimeemouth,Medicaid
-73,63,Male,Georgebury,Self-Pay
-74,83,Female,East Chloeberg,Self-Pay
-75,7,Female,New Lisaland,Medicare
-76,89,Female,Webbbury,Medicare
-77,7,Female,South Jake,Medicaid
-78,82,Female,Kevinville,Self-Pay
-79,5,Male,Emilyhaven,Medicaid
-80,46,Male,Johnsville,Private
-81,39,Female,Port Williamborough,Medicaid
-82,71,Male,Port Herbert,Medicare
-83,11,Male,West Richard,Medicaid
-84,73,Male,New Matthew,Medicaid
-85,55,Male,West Rhondafort,Medicare
-86,5,Male,Danielburgh,Self-Pay
-87,42,Female,Lake Charlesborough,Medicaid
-88,38,Female,East Williamport,Medicare
-89,60,Male,Lake Nathan,Private
-90,40,Male,South Sethville,Private
-91,87,Female,East William,Self-Pay
-92,10,Female,South Reginaville,Self-Pay
-93,32,Male,Pricestad,Private
-94,56,Male,Lynchfurt,Self-Pay
-95,55,Female,Port Kimburgh,Medicaid
-96,85,Male,East Robertstad,Medicaid
-97,61,Male,Loganview,Private
-98,89,Female,East Andrew,Self-Pay
-99,73,Male,Chasehaven,Self-Pay
-100,33,Female,Samanthafort,Self-Pay
-101,59,Female,Port Gregory,Medicaid
-102,41,Male,Michaelton,Medicaid
-103,21,Male,Christopherhaven,Self-Pay
-104,64,Female,Lake Nicole,Private
-105,24,Female,North Deannaborough,Private
-106,77,Male,Belindabury,Self-Pay
-107,54,Female,Jacquelineberg,Medicaid
-108,36,Male,Sallytown,Self-Pay
-109,84,Male,West Melanieview,Self-Pay
-110,82,Female,Smithshire,Private
-111,66,Male,South Tinafort,Self-Pay
-112,57,Male,East Brianport,Private
-113,23,Male,Johnsonchester,Medicare
-114,5,Male,Spearsmouth,Medicaid
-115,28,Female,Jameston,Private
-116,25,Female,East Barry,Medicaid
-117,44,Female,Mitchellchester,Medicare
-118,21,Male,East Susanside,Private
-119,14,Female,West Bridget,Private
-120,23,Male,Chapmanchester,Self-Pay
-121,12,Female,Connertown,Medicaid
-122,27,Male,Copelandville,Self-Pay
-123,52,Male,West Kathleenstad,Medicaid
-124,59,Male,Shermanhaven,Medicare
-125,19,Male,Lake Jamieborough,Medicare
-126,21,Female,Bartonberg,Private
-127,71,Female,Lake Catherinechester,Medicaid
-128,84,Female,East Heather,Medicare
-129,55,Male,Penafort,Medicare
-130,89,Male,New Jacobshire,Medicare
-131,41,Female,South Michaelshire,Self-Pay
-132,53,Male,New Chelsea,Self-Pay
-133,76,Female,Johnborough,Medicaid
-134,64,Male,West Marcfort,Private
-135,66,Female,Gibbsfort,Private
-136,63,Female,Gonzalezmouth,Self-Pay
-137,41,Male,North Kevin,Self-Pay
-138,47,Male,West Carolhaven,Private
-139,68,Male,Lake Matthew,Medicare
-140,14,Male,East Erinport,Medicaid
-141,30,Male,Lake Angelashire,Medicare
-142,21,Female,West Carl,Medicaid
-143,57,Male,North Kimberly,Medicaid
-144,82,Female,Jacobland,Private
-145,6,Male,Gutierrezview,Self-Pay
-146,88,Female,Leeview,Medicaid
-147,37,Female,Youngburgh,Medicaid
-148,64,Male,Johnview,Self-Pay
-149,34,Female,Lake Justin,Private
-150,81,Female,Port Ashley,Self-Pay
-151,40,Female,Port Aaron,Medicaid
-152,40,Male,Harrisborough,Private
-153,2,Male,Tinafort,Medicare
-154,46,Male,Donovanburgh,Private
-155,48,Female,Brandonburgh,Medicare
-156,44,Female,Phillipport,Self-Pay
-157,39,Male,Port Lisaborough,Self-Pay
-158,24,Male,Adrianside,Private
-159,56,Female,Floreshaven,Medicare
-160,29,Male,East Kristen,Medicaid
-161,37,Female,New Tara,Medicare
-162,3,Female,Lorihaven,Private
-163,53,Male,Riggsborough,Private
-164,47,Male,South Sherry,Private
-165,80,Female,Cooperburgh,Self-Pay
-166,42,Female,South George,Medicare
-167,20,Female,Valerieport,Self-Pay
-168,21,Male,Michaelville,Medicare
-169,81,Male,Beckerstad,Medicaid
-170,72,Female,Juliamouth,Private
-171,5,Male,Port Megan,Self-Pay
-172,26,Male,Hallchester,Medicare
-173,26,Male,Tiffanyton,Medicare
-174,76,Female,Fosterberg,Medicaid
-175,52,Male,Hernandezstad,Private
-176,88,Male,Weaverborough,Medicaid
-177,56,Male,South Saraberg,Self-Pay
-178,62,Female,Escobarport,Medicare
-179,69,Male,Michellemouth,Medicare
-180,4,Female,Wilsonport,Private
-181,12,Male,East Jason,Medicare
-182,60,Male,New Virginiastad,Private
-183,83,Female,Weberfort,Self-Pay
-184,51,Female,Davisstad,Self-Pay
-185,74,Female,Smithfort,Medicare
-186,25,Male,Port Michelleton,Medicaid
-187,16,Female,Timothyview,Medicare
-188,90,Female,Brentshire,Private
-189,6,Female,Port Joshuafurt,Private
-190,15,Female,Manuelchester,Private
-191,87,Female,Bowershaven,Medicare
-192,57,Male,Maryland,Self-Pay
-193,43,Female,South Margaret,Private
-194,25,Male,Allenfurt,Medicare
-195,9,Female,Lake Johnstad,Medicare
-196,49,Female,East Veronica,Medicaid
-197,61,Female,Poolemouth,Self-Pay
-198,52,Male,Vegafort,Medicare
-199,35,Female,Butlerberg,Medicaid
-200,86,Female,Murphyside,Self-Pay
-201,80,Male,Lake Alyssa,Private
-202,18,Male,West Victor,Private
-203,2,Female,Lake Robyn,Medicare
-204,17,Female,Judyfort,Private
-205,42,Male,Nelsonland,Private
-206,1,Female,West Michealland,Medicaid
-207,76,Male,Anthonyland,Private
-208,55,Female,North Kenneth,Private
-209,72,Female,Blevinsmouth,Medicare
-210,6,Female,Torresmouth,Private
-211,76,Male,West James,Medicaid
-212,14,Male,West Omar,Private
-213,55,Male,Davisside,Self-Pay
-214,50,Female,Lake Andrew,Medicaid
-215,68,Male,Lynchhaven,Medicaid
-216,69,Male,Davidborough,Medicaid
-217,16,Male,Port Sheila,Private
-218,9,Male,North Justintown,Medicare
-219,46,Female,West Roberthaven,Medicaid
-220,43,Female,Lake Amy,Medicare
-221,65,Female,East Kayla,Self-Pay
-222,57,Female,Gamblemouth,Medicaid
-223,10,Female,Kimberlychester,Private
-224,88,Female,Port Nicholas,Self-Pay
-225,70,Female,New Michaelburgh,Self-Pay
-226,20,Female,Castilloville,Medicaid
-227,53,Male,Shannonview,Medicare
-228,44,Female,Leebury,Self-Pay
-229,63,Female,Port Lisa,Medicare
-230,64,Male,Andersonstad,Private
-231,28,Female,Shawnburgh,Private
-232,49,Female,Kathleenburgh,Private
-233,75,Female,Port Karen,Medicare
-234,49,Male,Susanstad,Medicare
-235,84,Male,North Sue,Self-Pay
-236,5,Male,Jefferyport,Private
-237,25,Female,Martinberg,Medicare
-238,58,Male,Sharonbury,Private
-239,4,Male,South Brian,Private
-240,38,Female,Derekville,Medicaid
-241,81,Male,North Andrewport,Private
-242,90,Male,Johnburgh,Medicaid
-243,21,Female,Salasport,Private
-244,27,Male,South Amy,Self-Pay
-245,44,Female,Mooreland,Self-Pay
-246,28,Male,Davishaven,Private
-247,71,Male,Laurenland,Self-Pay
-248,87,Female,Suarezstad,Private
-249,30,Female,Christopherfurt,Medicare
-250,48,Male,North Stacyshire,Private
-251,86,Female,Wilkersonville,Medicaid
-252,75,Male,New Chelseastad,Medicaid
-253,8,Female,Davisfurt,Self-Pay
-254,82,Female,East Andrewhaven,Medicare
-255,45,Female,Baileymouth,Medicare
-256,40,Female,Lake Adam,Medicaid
-257,45,Female,New Bernardside,Self-Pay
-258,19,Male,Lake Steven,Self-Pay
-259,14,Male,East William,Self-Pay
-260,60,Female,East Yolandahaven,Medicare
-261,23,Female,Taylorborough,Medicare
-262,47,Female,Lake Anthonyview,Self-Pay
-263,82,Male,Davidshire,Medicaid
-264,42,Male,Trevorside,Self-Pay
-265,66,Male,Santosville,Medicare
-266,65,Female,Jacksonshire,Self-Pay
-267,71,Male,Payneton,Medicaid
-268,44,Male,Port Terri,Medicare
-269,27,Female,Brandonshire,Medicaid
-270,76,Female,North Ryan,Medicare
-271,36,Male,Lake Saraland,Medicaid
-272,8,Male,South Wanda,Medicaid
-273,33,Female,Jessicafort,Medicaid
-274,23,Female,Patriciaberg,Private
-275,24,Female,North Jeffery,Medicare
-276,11,Male,West Jasonton,Medicaid
-277,33,Male,Tarahaven,Medicaid
-278,26,Male,West Lisa,Medicare
-279,39,Female,Lake Nicolestad,Self-Pay
-280,81,Female,Gonzalezstad,Medicaid
-281,59,Female,Tammytown,Medicaid
-282,38,Male,East Teresaborough,Private
-283,31,Male,East Rachel,Private
-284,79,Male,East Jeremyberg,Self-Pay
-285,29,Female,Hornefurt,Private
-286,53,Female,Christopherland,Private
-287,39,Female,New Brandonbury,Self-Pay
-288,61,Male,West Jeffreyberg,Medicare
-289,45,Female,Davisfurt,Private
-290,22,Male,Lloydside,Medicare
-291,62,Male,New Aaron,Medicare
-292,4,Male,South Mark,Medicare
-293,58,Male,Fredton,Medicaid
-294,42,Female,Port Bryan,Private
-295,40,Male,Lake Christopher,Medicare
-296,58,Male,West Roy,Medicaid
-297,86,Female,Palmershire,Private
-298,7,Male,West Nicholaston,Self-Pay
-299,50,Male,Lopezmouth,Self-Pay
-300,79,Female,Gailborough,Private
-301,74,Female,Michaelmouth,Self-Pay
-302,31,Male,Port Robinport,Private
-303,42,Male,West Curtis,Private
-304,11,Male,Mariaport,Private
-305,67,Female,Deborahberg,Medicare
-306,51,Male,Port Melissahaven,Private
-307,29,Male,South Julie,Self-Pay
-308,89,Female,South Rebecca,Self-Pay
-309,35,Female,North Kenneth,Private
-310,82,Female,New Richardfort,Medicaid
-311,35,Female,South Maryville,Self-Pay
-312,49,Female,Lake Tonya,Medicare
-313,48,Male,Ericstad,Medicare
-314,14,Male,New Jennifer,Private
-315,68,Male,Port Anthonybury,Self-Pay
-316,72,Female,Lake Jasmineburgh,Self-Pay
-317,90,Male,Schaeferbury,Medicare
-318,25,Male,Grahamhaven,Self-Pay
-319,27,Female,Stacyville,Private
-320,2,Male,North Craig,Medicaid
-321,32,Female,Emilyfort,Private
-322,67,Female,East Brandon,Self-Pay
-323,82,Female,Michaelville,Medicaid
-324,53,Female,Scottstad,Private
-325,22,Male,Mackburgh,Medicare
-326,84,Male,North Crystal,Medicaid
-327,90,Male,South Erica,Self-Pay
-328,51,Female,East Donnachester,Medicare
-329,87,Female,East Christineberg,Self-Pay
-330,60,Female,Selenashire,Medicaid
-331,20,Male,Bondland,Self-Pay
-332,5,Male,Stevenborough,Self-Pay
-333,78,Female,Baileyberg,Self-Pay
-334,5,Male,North Matthew,Self-Pay
-335,81,Female,Michaelburgh,Private
-336,44,Female,Murrayfurt,Medicare
-337,63,Male,Port Michaelfurt,Private
-338,48,Male,Peterstad,Medicare
-339,1,Male,Gravesside,Medicaid
-340,15,Female,Warrenhaven,Self-Pay
-341,2,Female,Hopkinsstad,Private
-342,87,Male,Port Sabrinamouth,Medicaid
-343,25,Female,Robertshire,Self-Pay
-344,50,Female,Sarahburgh,Private
-345,34,Male,North Brittanyburgh,Self-Pay
-346,47,Female,Kevinburgh,Private
-347,76,Female,Paulchester,Medicaid
-348,84,Female,Fosterland,Medicaid
-349,33,Male,Dianamouth,Self-Pay
-350,39,Male,North Samuelfurt,Medicaid
-351,30,Male,New Albertburgh,Private
-352,50,Male,Wheelermouth,Medicaid
-353,22,Female,South Jamesshire,Medicaid
-354,88,Female,South Richardburgh,Private
-355,41,Male,West Katherineborough,Private
-356,38,Female,Timothyview,Self-Pay
-357,31,Male,Tinaport,Self-Pay
-358,11,Male,Williamsside,Medicare
-359,88,Male,Tylerberg,Medicare
-360,57,Male,South Georgeton,Self-Pay
-361,73,Male,East Jordan,Self-Pay
-362,26,Male,South Lauraberg,Medicaid
-363,21,Male,Johnsonmouth,Medicare
-364,7,Female,Christinehaven,Self-Pay
-365,80,Male,Curtisstad,Self-Pay
-366,14,Female,South Christopherside,Self-Pay
-367,48,Female,Lisashire,Medicaid
-368,88,Male,Anthonyhaven,Medicaid
-369,43,Female,Fernandezside,Private
-370,78,Male,Stacyborough,Self-Pay
-371,68,Female,South Abigailside,Self-Pay
-372,10,Female,North Rhonda,Medicare
-373,84,Male,Markborough,Medicare
-374,53,Female,Diazview,Self-Pay
-375,76,Male,South Earlborough,Medicaid
-376,68,Female,Guerreroport,Medicare
-377,22,Female,Angelton,Medicare
-378,42,Male,Stephenton,Medicare
-379,77,Male,New Nathanshire,Medicare
-380,7,Female,Joshuaberg,Medicare
-381,23,Female,Jenniferside,Private
-382,29,Male,Port Dawn,Medicare
-383,2,Male,Marvinhaven,Private
-384,14,Female,Port Stephanie,Medicaid
-385,11,Male,Port Ricky,Private
-386,78,Male,New Darrenstad,Self-Pay
-387,26,Female,North Justin,Self-Pay
-388,60,Male,West Denisebury,Medicare
-389,62,Male,Snydertown,Medicaid
-390,44,Female,Ryanburgh,Private
-391,21,Female,Santosberg,Medicare
-392,52,Female,Henrytown,Self-Pay
-393,45,Female,Kyleton,Private
-394,24,Female,Maryside,Private
-395,68,Female,New Elizabethberg,Private
-396,15,Male,Jeremyfort,Medicare
-397,78,Female,Lake Stevenhaven,Medicaid
-398,81,Female,Joseside,Self-Pay
-399,80,Female,Ashleyborough,Self-Pay
-400,15,Female,South Thomas,Medicare
-401,79,Female,West Dominique,Self-Pay
-402,10,Male,Sharpfort,Medicare
-403,57,Male,Riverashire,Self-Pay
-404,25,Female,Katherineside,Medicare
-405,9,Male,North Amanda,Medicaid
-406,9,Female,Gonzalesville,Medicare
-407,73,Male,Lake Michael,Medicare
-408,19,Male,New Ryanport,Self-Pay
-409,14,Female,Laurenstad,Private
-410,90,Male,South Micheleberg,Self-Pay
-411,27,Male,Tammyhaven,Medicare
-412,49,Male,Lake Ashleyhaven,Private
-413,55,Female,Singletonhaven,Medicare
-414,61,Male,Christensentown,Medicaid
-415,25,Female,Shannonberg,Medicare
-416,85,Female,Lake Sylvia,Medicaid
-417,58,Female,New Michaelhaven,Medicaid
-418,82,Female,East Jennifer,Medicaid
-419,30,Male,Greeneport,Self-Pay
-420,47,Female,Port William,Medicaid
-421,5,Female,Jamesville,Medicare
-422,83,Female,North Nathan,Medicaid
-423,12,Female,Roachstad,Self-Pay
-424,61,Male,Jonesmouth,Medicaid
-425,57,Female,North Holly,Private
-426,58,Female,Port Joannaland,Medicaid
-427,5,Female,North Philiphaven,Medicare
-428,57,Male,Brownbury,Medicare
-429,67,Male,Summersside,Medicare
-430,36,Female,Port John,Private
-431,39,Male,New Derrick,Medicare
-432,24,Female,Phillipshaven,Medicaid
-433,10,Female,Rodriguezshire,Medicare
-434,48,Female,Port Andrew,Private
-435,81,Female,Port Craigside,Medicaid
-436,59,Male,Brendamouth,Medicare
-437,41,Male,Brittanybury,Medicaid
-438,43,Male,Shepherdmouth,Medicare
-439,8,Female,Kellychester,Medicaid
-440,56,Male,Baileystad,Medicaid
-441,3,Female,Shelbyfort,Medicare
-442,38,Male,New Nicole,Medicare
-443,40,Female,West Brian,Medicare
-444,15,Male,South Jose,Medicare
-445,58,Female,Lake Joseton,Self-Pay
-446,6,Male,Lake Jonathan,Self-Pay
-447,1,Male,Douglasport,Medicare
-448,9,Male,Port Caitlinside,Private
-449,76,Male,Port Zachary,Medicare
-450,50,Female,North Staciemouth,Self-Pay
-451,46,Male,West Crystal,Medicaid
-452,30,Female,Leeland,Self-Pay
-453,69,Male,Mathisland,Self-Pay
-454,87,Female,South Dawnchester,Medicaid
-455,66,Male,Brianton,Private
-456,79,Male,West Thomasview,Medicare
-457,61,Female,Martineztown,Medicare
-458,10,Male,West Jennifer,Self-Pay
-459,21,Male,Robertsside,Medicare
-460,88,Female,East Dianeburgh,Private
-461,37,Female,Fernandezside,Private
-462,59,Female,Jenniferville,Medicaid
-463,31,Male,Barnesberg,Self-Pay
-464,13,Female,Baileyhaven,Medicaid
-465,36,Male,Erintown,Medicaid
-466,53,Male,Georgefort,Medicare
-467,10,Male,West Sheilamouth,Private
-468,22,Female,Joshuastad,Self-Pay
-469,70,Female,Rebeccafurt,Self-Pay
-470,78,Male,New Donald,Medicare
-471,46,Female,Bennettside,Medicare
-472,73,Female,North George,Private
-473,22,Female,Nicholasfurt,Private
-474,68,Male,Delacruzstad,Self-Pay
-475,76,Female,Haleshire,Self-Pay
-476,25,Male,West Melissafurt,Private
-477,67,Male,Port Davidport,Medicare
-478,67,Female,Sarahfort,Medicare
-479,27,Male,Proctorberg,Private
-480,11,Male,North Jeremiahshire,Medicare
-481,11,Male,New Janicestad,Private
-482,52,Male,West Christopherchester,Medicare
-483,78,Female,East April,Medicaid
-484,38,Female,Lake Anna,Private
-485,57,Female,North Thomasbury,Self-Pay
-486,8,Female,Simmonsstad,Self-Pay
-487,27,Male,North Robinshire,Private
-488,84,Male,West Johnstad,Private
-489,84,Male,Lake Michelle,Self-Pay
-490,2,Female,South Williammouth,Medicare
-491,65,Female,Coryville,Private
-492,71,Male,Wilsonmouth,Medicare
-493,72,Male,Joshuaburgh,Medicare
-494,32,Female,Burgessbury,Medicaid
-495,8,Male,Port Martinmouth,Medicare
-496,84,Female,Fergusonview,Private
-497,4,Male,North Cynthiaburgh,Medicaid
-498,87,Female,Port Nancymouth,Medicare
-499,16,Female,North Kimberlychester,Self-Pay
-500,68,Male,Port Wesleyfort,Medicare
-501,75,Male,Greenborough,Medicaid
-502,74,Female,Sanchezberg,Medicare
-503,37,Male,South Wayne,Medicare
-504,20,Male,Andersonmouth,Medicaid
-505,51,Female,Kimland,Medicare
-506,42,Female,North Becky,Private
-507,21,Male,Scottfort,Private
-508,66,Male,Charleshaven,Medicare
-509,5,Male,West Perryborough,Self-Pay
-510,62,Female,Port Samanthachester,Medicare
-511,21,Female,Wallacechester,Medicaid
-512,56,Female,West Kimberlymouth,Private
-513,8,Female,Ramirezfort,Medicare
-514,75,Male,New Michelle,Medicare
-515,57,Female,Port Taylor,Medicare
-516,72,Female,New Bonnie,Medicare
-517,7,Male,North Christopher,Medicare
-518,58,Male,Marcusville,Medicare
-519,27,Male,Jessicaberg,Self-Pay
-520,67,Female,Fisherside,Medicaid
-521,31,Male,Rachelstad,Private
-522,7,Female,Port Brandon,Self-Pay
-523,61,Female,Rhodesside,Self-Pay
-524,86,Female,Thompsonfort,Private
-525,2,Male,Velezborough,Self-Pay
-526,4,Male,Dixonport,Self-Pay
-527,73,Female,Port Ericshire,Medicare
-528,7,Male,Beasleybury,Self-Pay
-529,9,Male,Thomasberg,Medicare
-530,3,Female,New Anne,Medicare
-531,73,Female,South Jeffrey,Medicaid
-532,45,Female,Teresaville,Medicaid
-533,6,Male,Briantown,Private
-534,10,Female,Seantown,Medicaid
-535,61,Male,Lake Josephton,Medicaid
-536,14,Male,Port Jamesborough,Self-Pay
-537,29,Female,Vargasshire,Medicare
-538,4,Female,Lake Mark,Self-Pay
-539,31,Male,New Dianatown,Medicare
-540,90,Male,Katherinefurt,Self-Pay
-541,18,Male,Johnshire,Medicaid
-542,36,Female,Isaacmouth,Private
-543,22,Female,Johnville,Self-Pay
-544,21,Male,East Jasonstad,Self-Pay
-545,84,Male,Annaview,Medicaid
-546,77,Female,Pottsburgh,Medicare
-547,49,Male,Robinsonport,Private
-548,11,Male,Lake Kennethborough,Private
-549,46,Female,North Jamieville,Private
-550,18,Male,South Jaimeberg,Private
-551,8,Female,Port Christianbury,Medicare
-552,17,Female,East Kathrynfurt,Medicare
-553,26,Male,East Ryan,Private
-554,90,Female,Smithtown,Medicare
-555,42,Female,East Jessica,Private
-556,32,Male,Smithland,Private
-557,13,Male,North Theresachester,Medicare
-558,28,Male,Edwardsport,Medicaid
-559,46,Male,Breannaville,Self-Pay
-560,4,Male,Clineburgh,Medicaid
-561,60,Female,Nicholsview,Medicaid
-562,58,Male,West Benjamin,Self-Pay
-563,19,Male,Port Ryanside,Medicaid
-564,60,Male,South Kennethberg,Medicare
-565,49,Male,Nicoleberg,Medicare
-566,30,Male,Ingramville,Self-Pay
-567,4,Male,Kiddside,Medicaid
-568,13,Female,Victorbury,Medicare
-569,75,Female,Simston,Private
-570,77,Male,East Kimberlychester,Medicare
-571,48,Female,Kevinland,Self-Pay
-572,49,Male,Douglashaven,Medicaid
-573,74,Female,South Bradleyshire,Medicaid
-574,45,Female,Tammyshire,Medicaid
-575,77,Male,Reynoldsborough,Private
-576,13,Male,Port Austintown,Self-Pay
-577,25,Male,Jeffreyshire,Self-Pay
-578,19,Female,New Karen,Medicaid
-579,59,Male,North Brandon,Self-Pay
-580,66,Female,Lake Anthonychester,Medicare
-581,25,Female,West Lynn,Medicare
-582,18,Female,Anashire,Medicare
-583,55,Male,Kimtown,Medicare
-584,60,Female,Sullivanport,Private
-585,41,Female,Port Douglas,Medicare
-586,28,Female,Lake Zachary,Medicare
-587,59,Female,Amyfurt,Self-Pay
-588,64,Female,Williamshaven,Medicare
-589,33,Female,Michelebury,Medicaid
-590,82,Female,Chelseafurt,Medicaid
-591,72,Male,Gibsonberg,Self-Pay
-592,70,Male,Gouldland,Medicaid
-593,75,Female,East Jessicahaven,Medicare
-594,19,Male,North Daniellehaven,Self-Pay
-595,21,Female,West Michael,Self-Pay
-596,78,Female,Gravesville,Self-Pay
-597,18,Female,Kingland,Private
-598,48,Male,Martinport,Self-Pay
-599,44,Male,Petertown,Medicaid
-600,24,Female,Blakeside,Private
-601,67,Male,New Danielle,Medicare
-602,18,Female,Brownport,Self-Pay
-603,41,Female,Goodbury,Medicare
-604,6,Male,Lake Maryburgh,Private
-605,82,Female,Lake Teresa,Medicare
-606,41,Female,Martintown,Private
-607,38,Male,Sanchezton,Medicare
-608,86,Male,Port Kathleenton,Self-Pay
-609,11,Male,South Dawnside,Private
-610,56,Male,Mooreport,Private
-611,34,Female,Carriebury,Medicaid
-612,68,Male,Port Deborahton,Medicare
-613,68,Male,Adamsborough,Private
-614,22,Male,Port Brandon,Private
-615,49,Male,West Joseph,Self-Pay
-616,27,Male,Tuckerport,Self-Pay
-617,74,Male,Port Katelynfurt,Private
-618,51,Male,East Kristenside,Self-Pay
-619,40,Female,North Jessicaport,Private
-620,63,Male,New Tiffanyview,Private
-621,8,Female,New Richard,Medicaid
-622,67,Male,South Bobbytown,Private
-623,72,Male,Wangfort,Private
-624,54,Female,Blakeport,Medicaid
-625,74,Male,West Lucasfort,Medicaid
-626,47,Male,Lake Patrick,Medicaid
-627,89,Female,West Matthewmouth,Medicaid
-628,57,Female,New Jenniferfurt,Medicare
-629,18,Male,New Joseph,Self-Pay
-630,64,Male,Grahamton,Private
-631,12,Female,Jimenezstad,Medicare
-632,71,Male,Marcburgh,Private
-633,58,Male,South Carmenview,Self-Pay
-634,7,Female,New Matthew,Private
-635,24,Male,North Laurenburgh,Self-Pay
-636,88,Male,North Tammy,Medicare
-637,11,Male,Port Donaldside,Medicare
-638,58,Female,East Michealton,Medicaid
-639,89,Male,Wadefort,Private
-640,19,Male,West Dylan,Medicaid
-641,49,Female,New Kelly,Self-Pay
-642,61,Male,Lake Krystalville,Medicare
-643,48,Female,North Michaelfurt,Self-Pay
-644,16,Female,Jeremyview,Medicaid
-645,36,Male,East Brianton,Medicaid
-646,26,Female,Lake Olivia,Medicaid
-647,50,Male,West Joyceshire,Medicare
-648,35,Female,East Nicole,Self-Pay
-649,69,Male,Schroedershire,Self-Pay
-650,40,Male,Markland,Medicaid
-651,37,Male,East Robertfort,Medicare
-652,40,Female,West Edward,Medicaid
-653,2,Male,Lake Monicatown,Self-Pay
-654,5,Female,New Samanthafurt,Medicare
-655,45,Female,North Diana,Self-Pay
-656,72,Male,New Jean,Self-Pay
-657,23,Female,North Cherylchester,Private
-658,16,Female,Romanbury,Medicaid
-659,27,Male,New Kristin,Medicare
-660,41,Female,North Kara,Medicare
-661,79,Male,Port Richard,Private
-662,31,Male,West Briannamouth,Medicaid
-663,31,Male,Jameshaven,Self-Pay
-664,71,Male,New Allisonshire,Medicare
-665,76,Female,New Annaton,Medicare
-666,59,Male,Muellerville,Private
-667,30,Male,Smithmouth,Medicaid
-668,63,Male,East Adam,Private
-669,7,Male,Mcdonaldmouth,Private
-670,48,Male,Tylerbury,Medicare
-671,61,Male,Longside,Private
-672,51,Male,Teresamouth,Medicaid
-673,17,Male,Lake Erika,Private
-674,34,Male,Kevinside,Self-Pay
-675,12,Male,Bakerland,Self-Pay
-676,37,Female,Lake Michael,Private
-677,90,Female,Port Julie,Private
-678,15,Male,Hayesfurt,Medicaid
-679,1,Female,East Nicole,Self-Pay
-680,64,Male,Weberfurt,Self-Pay
-681,20,Male,Youngfurt,Private
-682,31,Male,Fletcherview,Medicare
-683,19,Male,Danielburgh,Self-Pay
-684,72,Female,Valerieberg,Self-Pay
-685,55,Male,Washingtonburgh,Self-Pay
-686,50,Male,New Gabrielle,Private
-687,31,Male,Oscartown,Self-Pay
-688,15,Male,Jonesport,Private
-689,22,Male,Dawnhaven,Private
-690,68,Female,New Paulville,Medicaid
-691,15,Male,Mariaville,Self-Pay
-692,37,Male,East Jessicaton,Private
-693,84,Male,South Natasha,Self-Pay
-694,39,Female,Gregoryside,Medicaid
-695,69,Male,Contrerasview,Medicaid
-696,34,Female,East Melissa,Medicaid
-697,51,Female,New Steven,Self-Pay
-698,39,Female,Richardsland,Medicaid
-699,38,Female,Mcfarlandside,Medicare
-700,38,Female,Jeffreyberg,Private
-701,73,Female,North Wendy,Self-Pay
-702,25,Male,East Ryanport,Medicare
-703,3,Female,Port Randy,Self-Pay
-704,25,Male,South Carlosview,Self-Pay
-705,85,Female,Wrightchester,Private
-706,41,Female,Claytonmouth,Medicaid
-707,84,Female,Davilaberg,Self-Pay
-708,72,Male,Carrieside,Medicare
-709,54,Female,Williamsside,Medicare
-710,80,Male,Port Elizabethview,Private
-711,25,Female,Princeberg,Medicaid
-712,55,Male,Port Sarahmouth,Medicare
-713,37,Female,North Wayneport,Medicare
-714,1,Female,Cookborough,Medicare
-715,23,Female,Scottberg,Medicaid
-716,13,Male,Bergerside,Self-Pay
-717,83,Male,East Kellymouth,Private
-718,3,Female,East Brendamouth,Private
-719,17,Female,Danielleberg,Medicaid
-720,16,Female,North Kevin,Medicare
-721,18,Male,Lake Carlberg,Self-Pay
-722,84,Female,Freemanmouth,Medicaid
-723,63,Female,Andersonton,Private
-724,6,Male,East Eric,Self-Pay
-725,66,Female,Hesterhaven,Medicare
-726,58,Male,East Patriciafurt,Private
-727,18,Male,Daniellestad,Private
-728,31,Male,Higginsport,Private
-729,75,Female,Lake Courtneyberg,Medicaid
-730,5,Female,Taylorville,Self-Pay
-731,23,Male,West Kimberlytown,Private
-732,64,Male,Port Brentfort,Private
-733,43,Female,Lake Nicholashaven,Private
-734,22,Female,Davidport,Private
-735,54,Female,New Kimberlyfurt,Medicare
-736,47,Female,West Ashley,Medicare
-737,44,Male,Velazquezberg,Medicare
-738,70,Male,East Mason,Medicare
-739,25,Male,Port Bryanport,Private
-740,65,Female,Laurastad,Private
-741,50,Female,Salinaschester,Private
-742,50,Male,Davidmouth,Medicaid
-743,89,Female,North Colleen,Private
-744,24,Female,Lyonsview,Private
-745,52,Female,New Megan,Self-Pay
-746,59,Male,Peggymouth,Medicare
-747,40,Female,Kellytown,Medicaid
-748,56,Male,Sarahhaven,Medicaid
-749,30,Female,Angelafurt,Private
-750,74,Male,Tammystad,Self-Pay
-751,66,Male,New Markville,Medicare
-752,39,Female,South Anthony,Private
-753,12,Female,Wattsmouth,Self-Pay
-754,68,Male,North Hannah,Medicare
-755,3,Female,Aliciaburgh,Private
-756,47,Male,Port Shanefurt,Medicaid
-757,89,Male,Turnerville,Medicaid
-758,51,Male,Jonesview,Private
-759,21,Female,New Laurenport,Medicaid
-760,86,Female,Matthewstad,Self-Pay
-761,31,Female,Lisamouth,Self-Pay
-762,54,Male,Zacharychester,Medicaid
-763,89,Male,Millerhaven,Medicaid
-764,15,Female,Steveview,Medicare
-765,80,Female,South Tarabury,Self-Pay
-766,59,Female,South Adam,Private
-767,26,Female,Port Kimberlymouth,Private
-768,48,Male,Port Jared,Medicare
-769,74,Male,Ginaborough,Medicaid
-770,75,Female,Daltonland,Medicare
-771,15,Female,West Mark,Medicare
-772,63,Male,Myersmouth,Medicare
-773,64,Female,Port Robertland,Self-Pay
-774,82,Male,Johnsonberg,Self-Pay
-775,26,Male,Fosterfort,Medicare
-776,69,Male,North Nicoleton,Medicare
-777,15,Female,Sanchezstad,Private
-778,73,Male,Port Kathrynmouth,Medicaid
-779,22,Male,East Andresfurt,Self-Pay
-780,44,Female,South Angelahaven,Self-Pay
-781,89,Male,South Travisburgh,Self-Pay
-782,71,Male,Andersonburgh,Medicaid
-783,52,Male,Blackwellshire,Medicaid
-784,4,Female,South Richard,Self-Pay
-785,71,Male,Rogerborough,Self-Pay
-786,1,Female,Brittanyberg,Private
-787,13,Male,New Stevenmouth,Medicare
-788,8,Male,Michaelview,Self-Pay
-789,62,Female,Bradleyfort,Medicare
-790,72,Male,Hansenborough,Self-Pay
-791,74,Female,New Joshuahaven,Medicaid
-792,17,Female,Laurenville,Medicare
-793,40,Female,Port Randall,Self-Pay
-794,34,Female,Lake Jean,Medicaid
-795,18,Male,New Brookefurt,Self-Pay
-796,47,Male,New Andrew,Private
-797,18,Female,West Jesseville,Self-Pay
-798,22,Male,Christinaside,Medicaid
-799,54,Male,South Robertberg,Medicare
-800,21,Male,Greenhaven,Medicare
-801,65,Male,North Thomaston,Medicaid
-802,24,Female,Port Derek,Medicaid
-803,8,Male,North Shirleyborough,Medicare
-804,38,Male,Michaelside,Medicaid
-805,54,Female,Jamiefort,Medicare
-806,35,Female,West Laura,Medicare
-807,20,Female,Tammybury,Self-Pay
-808,89,Male,West Richardbury,Self-Pay
-809,18,Male,West Phyllis,Private
-810,15,Female,North Jacobhaven,Medicaid
-811,63,Male,Austinberg,Self-Pay
-812,87,Male,Port Thomas,Medicare
-813,30,Male,North Steveborough,Medicare
-814,52,Female,North Deborahhaven,Self-Pay
-815,81,Female,Angelamouth,Self-Pay
-816,7,Female,West Joshualand,Private
-817,42,Female,Ruizborough,Medicare
-818,25,Female,Josephshire,Self-Pay
-819,8,Female,Taylorberg,Medicare
-820,70,Female,East James,Medicare
-821,44,Female,Lake Marcia,Self-Pay
-822,89,Male,Port Bryanland,Private
-823,62,Female,Port Gina,Self-Pay
-824,31,Female,Port Deanna,Private
-825,72,Female,Smithstad,Private
-826,18,Female,New Andrew,Self-Pay
-827,26,Female,Jenniferchester,Self-Pay
-828,76,Male,South Jennifer,Private
-829,29,Male,New Johnny,Self-Pay
-830,2,Male,Rickyview,Self-Pay
-831,59,Female,New Sherry,Medicare
-832,23,Female,Carolberg,Self-Pay
-833,78,Female,Lake Adamstad,Self-Pay
-834,79,Male,Carrieborough,Self-Pay
-835,64,Female,Port Diana,Medicare
-836,43,Male,Angelachester,Medicare
-837,28,Female,South Stephanietown,Medicaid
-838,25,Female,Craigton,Self-Pay
-839,71,Female,West Elizabethland,Private
-840,67,Male,West Katherineport,Medicare
-841,1,Male,Leslieton,Self-Pay
-842,3,Female,West Glenn,Medicare
-843,31,Male,Pollardmouth,Self-Pay
-844,23,Male,Alexisstad,Private
-845,29,Female,Jonathanmouth,Private
-846,10,Female,Diaztown,Medicare
-847,52,Female,New Daniel,Medicaid
-848,59,Female,Derekport,Private
-849,78,Female,North John,Medicare
-850,55,Female,South Christopherville,Medicaid
-851,54,Female,South Jennifermouth,Medicaid
-852,22,Female,Markberg,Self-Pay
-853,21,Male,Andrefort,Self-Pay
-854,12,Male,West Sarahhaven,Self-Pay
-855,1,Male,Princeville,Medicare
-856,1,Male,Jeffreychester,Medicaid
-857,4,Male,South Susanside,Medicaid
-858,4,Female,North Eddiefurt,Medicaid
-859,40,Male,Port Michaelmouth,Medicaid
-860,43,Male,North Donaldland,Medicare
-861,37,Male,South Matthew,Medicaid
-862,1,Female,Donnamouth,Medicare
-863,71,Female,Lake Jim,Medicaid
-864,85,Female,Marybury,Medicaid
-865,78,Male,East Ryan,Medicare
-866,81,Female,South Heatherville,Private
-867,11,Female,Port Paulstad,Private
-868,8,Female,East Brianmouth,Medicare
-869,34,Female,Newtonberg,Private
-870,19,Male,Lake Beverly,Medicare
-871,79,Male,Joyceshire,Medicare
-872,71,Male,Lake Edwin,Private
-873,15,Male,North Amber,Self-Pay
-874,73,Female,Samuelhaven,Self-Pay
-875,14,Male,South James,Self-Pay
-876,58,Male,Judithbury,Medicare
-877,87,Male,Edwardsburgh,Self-Pay
-878,38,Female,Brandtburgh,Medicare
-879,85,Male,Phamfurt,Private
-880,9,Male,East Larry,Medicaid
-881,40,Male,East Jacob,Medicare
-882,62,Male,Port Jameschester,Private
-883,67,Male,Penamouth,Medicare
-884,26,Female,Brittanymouth,Medicaid
-885,43,Female,Pittmanberg,Private
-886,43,Male,Lake Angela,Private
-887,34,Male,New Richardfort,Private
-888,76,Female,Port Joseph,Medicaid
-889,52,Male,East Barbara,Self-Pay
-890,26,Female,North Kimberlytown,Self-Pay
-891,64,Male,East Victoriaton,Private
-892,34,Male,New Nataliebury,Medicaid
-893,35,Female,Nathanport,Medicaid
-894,82,Male,Rachelland,Private
-895,83,Male,Lake Debraland,Self-Pay
-896,51,Male,New James,Medicaid
-897,43,Female,Tylerhaven,Medicare
-898,78,Male,Port Curtisfort,Medicaid
-899,30,Female,Perryside,Medicaid
-900,88,Female,Port Connorfort,Self-Pay
-901,45,Male,South Toddfort,Self-Pay
-902,77,Male,Morenoberg,Medicare
-903,12,Male,Davidville,Medicaid
-904,63,Female,Blairshire,Medicare
-905,50,Female,South Jerrystad,Medicare
-906,9,Male,Browningstad,Self-Pay
-907,38,Female,North John,Medicaid
-908,41,Male,South Michelletown,Private
-909,34,Female,North Abigailton,Medicaid
-910,17,Male,East Joshualand,Private
-911,19,Male,Perezfort,Private
-912,55,Male,East Adrianshire,Medicaid
-913,24,Male,Mariastad,Medicare
-914,66,Male,Kingmouth,Self-Pay
-915,77,Male,Grantshire,Medicaid
-916,88,Male,East Lacey,Private
-917,31,Female,South Jamie,Self-Pay
-918,50,Male,North Sherri,Self-Pay
-919,51,Male,New Matthewland,Medicaid
-920,18,Female,East Austin,Medicare
-921,53,Female,Jonesport,Medicare
-922,15,Female,Willisborough,Private
-923,83,Male,New Michaelport,Private
-924,71,Female,Port Jay,Medicare
-925,16,Female,Smithview,Medicaid
-926,66,Female,New Barbaraberg,Self-Pay
-927,73,Female,Martinville,Medicare
-928,45,Male,South Abigailburgh,Medicaid
-929,10,Male,Lake Hannah,Private
-930,4,Male,Rickeyberg,Private
-931,1,Female,Lake Lauren,Medicaid
-932,61,Female,Nicoleton,Self-Pay
-933,57,Female,West Scott,Medicare
-934,88,Female,New Juliechester,Medicaid
-935,85,Female,Sharonville,Private
-936,52,Male,East Ronnieville,Medicare
-937,65,Male,West Michael,Self-Pay
-938,8,Male,New Ashley,Medicaid
-939,68,Male,Jasontown,Private
-940,10,Male,New Dianafort,Medicare
-941,14,Male,Jacksonport,Private
-942,78,Male,Michaelborough,Medicaid
-943,18,Female,West Scott,Private
-944,49,Male,South Jessicachester,Self-Pay
-945,36,Female,South Samuelside,Private
-946,22,Male,Allenmouth,Medicaid
-947,40,Female,West Katie,Medicare
-948,42,Male,North Ryanfort,Medicaid
-949,14,Male,Judybury,Medicare
-950,21,Female,Humphreyshire,Medicaid
-951,79,Female,South Elizabethton,Self-Pay
-952,21,Male,Gillchester,Self-Pay
-953,30,Male,Lauraburgh,Medicare
-954,14,Male,Lambertmouth,Medicare
-955,52,Female,Branchfurt,Self-Pay
-956,72,Female,Christopherstad,Medicaid
-957,62,Male,East David,Self-Pay
-958,1,Male,Cooperborough,Medicare
-959,66,Male,Laurenfurt,Private
-960,62,Male,Rachaelview,Private
-961,42,Male,Vangberg,Medicaid
-962,81,Female,New Sonya,Private
-963,61,Female,Lake Stephen,Self-Pay
-964,63,Female,Karenside,Medicaid
-965,74,Female,North Donnaville,Medicare
-966,62,Female,Davenportstad,Private
-967,6,Female,Cameronmouth,Medicaid
-968,41,Female,Rodriguezton,Private
-969,34,Male,North Scott,Private
-970,6,Female,South Hayley,Self-Pay
-971,82,Male,Joytown,Medicaid
-972,25,Male,Petersonstad,Medicaid
-973,49,Female,West Richard,Self-Pay
-974,32,Female,Matthewhaven,Self-Pay
-975,84,Female,Lake Katrina,Self-Pay
-976,17,Female,Lake Vicki,Medicaid
-977,57,Male,South Dana,Medicare
-978,18,Female,Brianbury,Private
-979,3,Female,Traciberg,Private
-980,6,Male,Amandaland,Medicare
-981,24,Female,Derekstad,Medicaid
-982,42,Male,North Susan,Private
-983,34,Female,South Mirandaburgh,Private
-984,76,Male,South Scottside,Self-Pay
-985,37,Male,Harrisonton,Private
-986,26,Male,Port Belindashire,Self-Pay
-987,24,Female,Leeshire,Medicare
-988,47,Female,Loweview,Self-Pay
-989,13,Male,South Michael,Private
-990,87,Female,Calebhaven,Self-Pay
-991,89,Female,New Victoria,Medicaid
-992,89,Female,Troytown,Self-Pay
-993,76,Male,Stevenmouth,Self-Pay
-994,80,Female,New Richardfurt,Self-Pay
-995,39,Female,North Garyside,Private
-996,17,Male,East Allisonmouth,Medicare
-997,90,Male,Lake Robert,Self-Pay
-998,83,Female,South Summer,Private
-999,62,Female,Welchmouth,Private
-1000,26,Male,Lake Loganside,Medicaid
+patient_id,age,gender,city,insurance_type
+1,3,Male,Juliefurt,Private
+2,48,Female,Wademouth,Private
+3,22,Female,East Laurenport,Medicare
+4,39,Female,Lake Lesliebury,Self-Pay
+5,47,Female,West Angelicaburgh,Medicaid
+6,29,Female,South Chelsea,Medicare
+7,76,Male,Mooremouth,Private
+8,24,Male,Hancockland,Private
+9,42,Male,West Debraton,Medicare
+10,70,Male,Port Cathy,Medicaid
+11,5,Female,East Margaretburgh,Medicaid
+12,88,Female,Marymouth,Private
+13,31,Female,New Hannahville,Medicare
+14,66,Male,Wrightside,Medicaid
+15,66,Female,Lake Fernando,Medicare
+16,37,Male,Ericahaven,Medicaid
+17,34,Female,North Amandabury,Medicare
+18,44,Male,Keithland,Private
+19,68,Female,Lesliefort,Self-Pay
+20,43,Female,Gonzaleztown,Medicare
+21,69,Male,East Charles,Private
+22,19,Female,Port Shannonport,Private
+23,74,Male,Solomonfurt,Self-Pay
+24,64,Female,Lewismouth,Medicare
+25,10,Male,New Anthonyfurt,Private
+26,20,Male,Gonzalezmouth,Self-Pay
+27,75,Female,Yvonnemouth,Private
+28,87,Male,Port Chris,Private
+29,11,Male,South Katiemouth,Private
+30,70,Female,Lake Jenniferborough,Medicare
+31,16,Female,New Rose,Medicaid
+32,66,Female,Mcbridefort,Self-Pay
+33,53,Female,Garciafort,Private
+34,74,Female,Port Angelahaven,Medicaid
+35,16,Male,East Christine,Self-Pay
+36,33,Male,Pollardside,Private
+37,42,Male,Gutierreztown,Private
+38,61,Male,Port Claudiastad,Private
+39,61,Male,Hendricksburgh,Medicaid
+40,72,Female,Margaretchester,Medicaid
+41,48,Male,Lake Veronicachester,Private
+42,54,Male,Johnstonton,Medicare
+43,84,Female,New Karen,Self-Pay
+44,39,Female,Port Billy,Medicare
+45,29,Female,East Stephaniehaven,Private
+46,28,Female,South Amanda,Private
+47,18,Male,Mariaville,Private
+48,49,Male,West Teresaburgh,Private
+49,49,Male,Theodoreville,Medicaid
+50,69,Male,Seanland,Self-Pay
+51,47,Female,Port Michael,Self-Pay
+52,14,Female,Port Karinafurt,Private
+53,15,Female,East Melanie,Private
+54,40,Female,Carrollstad,Medicare
+55,7,Female,Port Scottview,Self-Pay
+56,10,Female,Codyview,Self-Pay
+57,11,Male,Debraton,Medicaid
+58,2,Male,Port Alexandertown,Medicaid
+59,66,Female,Port Amyville,Private
+60,78,Female,New Donnaton,Medicare
+61,5,Male,North Davidburgh,Medicaid
+62,23,Female,Port Jenniferstad,Self-Pay
+63,23,Female,East Ivanmouth,Medicare
+64,42,Male,Lake Joseph,Medicaid
+65,75,Male,Webbberg,Private
+66,71,Female,Michaelhaven,Self-Pay
+67,45,Female,North William,Medicare
+68,47,Male,West Jonathon,Self-Pay
+69,43,Male,Port Kaitlinmouth,Private
+70,31,Female,Port Jessica,Medicaid
+71,10,Male,Brandychester,Private
+72,13,Female,Wellsmouth,Self-Pay
+73,64,Female,East Chadshire,Private
+74,90,Female,Melissatown,Medicaid
+75,62,Male,Michaelmouth,Self-Pay
+76,34,Female,South Micheleborough,Medicare
+77,83,Male,East Yolandastad,Private
+78,75,Female,West Jessicamouth,Private
+79,49,Male,North Christopherchester,Medicare
+80,13,Male,Rayfort,Medicare
+81,14,Male,Barronland,Medicare
+82,63,Female,Hallstad,Private
+83,35,Female,Matthewside,Medicaid
+84,82,Female,Williamview,Medicaid
+85,39,Female,Garzaville,Medicare
+86,23,Male,Port Patriciahaven,Medicaid
+87,67,Male,South Joshuafort,Self-Pay
+88,5,Male,Port Barbaraburgh,Medicaid
+89,76,Male,North Maria,Private
+90,44,Female,South April,Private
+91,12,Female,Valeriemouth,Self-Pay
+92,86,Female,North Jacob,Medicare
+93,31,Female,East Paulland,Private
+94,38,Female,Lake Isaiah,Medicaid
+95,61,Male,Port Rebecca,Medicaid
+96,83,Male,New Victor,Medicaid
+97,49,Male,East Kim,Medicaid
+98,71,Female,Johnville,Private
+99,89,Female,West Zachary,Self-Pay
+100,77,Male,Port Gregshire,Medicaid
+101,70,Male,Lake Scott,Private
+102,76,Female,Lake Maria,Medicare
+103,44,Male,Johnport,Medicare
+104,61,Female,North Seth,Private
+105,71,Female,Branchtown,Medicaid
+106,35,Male,South Jennifer,Private
+107,33,Male,North Garrett,Medicare
+108,65,Male,New Christianberg,Self-Pay
+109,76,Male,Webbhaven,Medicare
+110,46,Female,Shanechester,Medicaid
+111,18,Male,Andrewmouth,Private
+112,20,Male,West Ericton,Self-Pay
+113,50,Male,Lake Debbie,Self-Pay
+114,89,Male,South Lisaburgh,Medicare
+115,44,Male,North Leeside,Private
+116,12,Male,Cherylville,Medicaid
+117,72,Female,Lisastad,Self-Pay
+118,81,Female,Lake Christina,Self-Pay
+119,10,Female,Michaelberg,Medicare
+120,82,Female,Annefort,Private
+121,59,Female,New Kyleburgh,Medicaid
+122,81,Female,Nguyenborough,Medicaid
+123,28,Male,Joshuaborough,Medicaid
+124,70,Male,Port Juanburgh,Self-Pay
+125,27,Male,Yoderburgh,Private
+126,47,Female,Christinahaven,Medicaid
+127,68,Female,New Allison,Private
+128,23,Female,Lake Joshuastad,Medicaid
+129,50,Male,Jonesshire,Medicare
+130,66,Male,Port Brettmouth,Private
+131,46,Male,South Victoria,Medicare
+132,22,Male,Port David,Medicare
+133,34,Female,Paulmouth,Private
+134,29,Male,Michaelshire,Medicaid
+135,21,Male,New Diana,Medicare
+136,8,Male,Annaborough,Self-Pay
+137,10,Male,Clarktown,Self-Pay
+138,8,Female,Orrtown,Self-Pay
+139,43,Female,Lake Hunterside,Self-Pay
+140,82,Male,Lawrenceberg,Medicaid
+141,33,Male,North Staceyberg,Self-Pay
+142,16,Male,South Ashley,Private
+143,83,Male,Port Seanfort,Self-Pay
+144,43,Male,Foxton,Private
+145,30,Female,Melissamouth,Medicaid
+146,6,Female,Howellhaven,Private
+147,13,Female,Sarahshire,Private
+148,4,Male,New Davidshire,Medicaid
+149,19,Female,East Garrettmouth,Medicare
+150,18,Male,Georgefort,Medicaid
+151,7,Female,Janicehaven,Private
+152,85,Male,North Alexandria,Self-Pay
+153,69,Male,Hillberg,Medicaid
+154,80,Male,North Larry,Medicare
+155,71,Female,Port Olivia,Medicare
+156,6,Female,Jeffreyport,Medicare
+157,41,Male,Lake Oscarfort,Self-Pay
+158,72,Male,Lake Reginald,Medicare
+159,38,Female,Brianshire,Medicaid
+160,1,Male,Alexanderville,Self-Pay
+161,21,Male,Williamstown,Private
+162,76,Female,Jamesmouth,Self-Pay
+163,26,Female,Harrisland,Private
+164,32,Male,Port Nathanburgh,Medicare
+165,56,Male,Carrollfort,Medicare
+166,39,Male,Port Brianport,Medicare
+167,54,Female,New Michaelhaven,Self-Pay
+168,61,Female,Port Thomasfurt,Medicare
+169,51,Female,West Morganfurt,Medicare
+170,78,Female,Mariaburgh,Private
+171,38,Male,West Jamesport,Medicaid
+172,20,Male,Robinton,Self-Pay
+173,75,Male,West Tony,Medicaid
+174,39,Male,Lake Theresaside,Medicaid
+175,23,Female,North Lisabury,Medicare
+176,60,Male,Port Paulburgh,Self-Pay
+177,66,Female,North Alexander,Medicaid
+178,67,Female,Anthonyville,Self-Pay
+179,72,Female,Danielhaven,Private
+180,27,Male,Lake Diane,Self-Pay
+181,73,Female,Lake Matthewside,Self-Pay
+182,35,Male,New Jennifer,Self-Pay
+183,70,Female,East Loretta,Private
+184,22,Female,North John,Self-Pay
+185,85,Male,Port Wendybury,Medicare
+186,84,Male,South Marissa,Medicare
+187,15,Male,Kimberlymouth,Medicaid
+188,87,Male,Angelaside,Private
+189,67,Male,Daltonstad,Private
+190,53,Male,Marvinburgh,Self-Pay
+191,2,Female,Stevensonside,Private
+192,81,Female,Pamelaview,Self-Pay
+193,27,Male,East Christinafurt,Self-Pay
+194,16,Male,Port Joe,Self-Pay
+195,32,Female,Courtneybury,Medicare
+196,1,Male,North Jessicaside,Medicaid
+197,55,Male,South Catherinemouth,Self-Pay
+198,48,Male,South Sara,Self-Pay
+199,37,Female,New Jamiestad,Medicaid
+200,45,Female,Port Jamesberg,Medicare
+201,19,Male,Youngfurt,Self-Pay
+202,74,Male,Jasonmouth,Private
+203,39,Female,Mcmillanville,Medicare
+204,14,Female,Rebeccaport,Medicaid
+205,1,Male,Fordton,Self-Pay
+206,64,Female,Harrisborough,Medicare
+207,7,Male,East Erica,Private
+208,19,Female,South Jeffrey,Private
+209,53,Male,Kelseytown,Medicare
+210,11,Female,Port Shannon,Private
+211,75,Male,Jasonchester,Private
+212,34,Male,Amyfurt,Medicare
+213,69,Female,Carrollland,Private
+214,78,Female,Jeremyton,Private
+215,74,Female,Lake Danielle,Medicaid
+216,18,Female,West Dawnport,Medicare
+217,87,Female,Vaughnstad,Medicare
+218,40,Female,New Erichaven,Medicaid
+219,19,Female,Willisstad,Medicaid
+220,33,Male,Smithland,Private
+221,87,Female,Andrealand,Self-Pay
+222,84,Male,East Kyle,Medicare
+223,75,Female,West Diane,Self-Pay
+224,48,Male,South Carrieburgh,Private
+225,2,Male,Simsside,Self-Pay
+226,50,Male,Bradyview,Self-Pay
+227,44,Male,Ianstad,Self-Pay
+228,30,Female,Thomasville,Medicaid
+229,66,Female,West Bryanville,Private
+230,40,Male,Port Patriciatown,Self-Pay
+231,33,Male,Nguyenstad,Self-Pay
+232,45,Male,Richardland,Self-Pay
+233,32,Male,Richardview,Medicare
+234,37,Male,Griffinside,Medicaid
+235,8,Female,Walkerhaven,Self-Pay
+236,59,Female,New Katherine,Medicaid
+237,2,Male,Lake Thomas,Medicaid
+238,68,Female,Ashleyshire,Self-Pay
+239,70,Female,Galvanside,Self-Pay
+240,36,Female,Tylerberg,Private
+241,46,Male,Nataliebury,Private
+242,36,Female,Clarkfort,Medicaid
+243,68,Female,Russellton,Medicare
+244,88,Female,Perkinschester,Medicaid
+245,82,Male,Berryville,Private
+246,55,Female,Hannahbury,Medicaid
+247,37,Female,Lake Manuel,Medicaid
+248,75,Female,West Melissaville,Medicare
+249,53,Male,Danielleton,Medicare
+250,64,Female,North Petermouth,Self-Pay
+251,49,Male,Carlaland,Medicare
+252,46,Female,Scottbury,Private
+253,77,Female,South Jason,Self-Pay
+254,68,Male,Aliciaview,Self-Pay
+255,74,Female,East Henrychester,Private
+256,40,Female,Curtismouth,Private
+257,8,Male,Cassandrastad,Private
+258,67,Female,New Davidmouth,Self-Pay
+259,12,Female,Lake Justin,Private
+260,88,Female,West Tonyaside,Medicare
+261,60,Female,Natashashire,Medicaid
+262,12,Female,Juliehaven,Medicaid
+263,4,Female,Michellefort,Medicare
+264,79,Female,New Johnathanmouth,Medicare
+265,32,Male,New David,Medicaid
+266,24,Female,Jenkinsside,Private
+267,56,Male,Kathyborough,Medicaid
+268,26,Female,Oliviaside,Private
+269,79,Female,Jonesberg,Medicare
+270,78,Female,Woodsburgh,Private
+271,54,Male,Amandaberg,Private
+272,47,Female,Hooperchester,Medicaid
+273,23,Male,West Kayla,Self-Pay
+274,89,Male,New Michaela,Private
+275,20,Female,East Penny,Medicare
+276,82,Male,East Darleneberg,Self-Pay
+277,80,Male,Maldonadochester,Medicaid
+278,88,Male,Port Scottton,Self-Pay
+279,65,Male,Lake Daniel,Self-Pay
+280,44,Female,Kellyland,Medicare
+281,12,Female,Scottside,Medicare
+282,74,Female,New Darlenefort,Medicaid
+283,35,Female,Lake Thomasshire,Medicaid
+284,38,Male,East James,Medicaid
+285,38,Male,Stephanieberg,Medicare
+286,90,Female,West John,Medicare
+287,48,Male,Jasonton,Self-Pay
+288,90,Female,Stevensonmouth,Medicare
+289,26,Male,North Timothyshire,Medicaid
+290,45,Female,New Maria,Medicare
+291,48,Male,Princetown,Medicare
+292,28,Male,South Alexandraberg,Medicaid
+293,22,Female,Scottshire,Self-Pay
+294,2,Female,Wellsshire,Self-Pay
+295,74,Male,Lucasland,Self-Pay
+296,69,Male,Alanburgh,Medicare
+297,87,Male,North Tyler,Self-Pay
+298,60,Male,West Stephanie,Medicare
+299,84,Female,South Joanland,Medicaid
+300,66,Male,Port Michaelburgh,Private
+301,22,Male,Onealport,Private
+302,80,Female,Morenoshire,Medicare
+303,30,Female,West Bailey,Medicare
+304,25,Female,Clarkport,Medicare
+305,31,Female,Finleyshire,Self-Pay
+306,17,Female,West Jefferyview,Medicare
+307,62,Male,Delgadoland,Medicaid
+308,73,Male,Wilsonview,Self-Pay
+309,86,Male,Jamesburgh,Self-Pay
+310,89,Female,Lopezville,Private
+311,41,Female,South William,Private
+312,7,Female,Michellefurt,Self-Pay
+313,40,Male,Taylorview,Medicaid
+314,48,Male,Petersenville,Medicare
+315,13,Female,West Heatherfurt,Medicaid
+316,29,Female,Jenningsstad,Medicare
+317,39,Female,Jacobview,Medicare
+318,60,Female,North Cameron,Private
+319,45,Male,South Toddtown,Self-Pay
+320,27,Male,North Angela,Medicaid
+321,64,Female,Cruzville,Medicare
+322,52,Male,West Courtneymouth,Private
+323,36,Female,Lake Willieland,Medicaid
+324,18,Female,Sarahmouth,Self-Pay
+325,70,Male,West Samantha,Medicaid
+326,3,Female,West Stephanie,Self-Pay
+327,9,Female,Lake Christine,Medicare
+328,35,Female,East Brian,Medicare
+329,10,Female,West Darlene,Medicare
+330,41,Female,Jamesview,Medicaid
+331,35,Female,East Martin,Self-Pay
+332,68,Female,New Dennis,Private
+333,82,Female,Lake Tiffany,Self-Pay
+334,54,Male,West Jamie,Self-Pay
+335,85,Female,Crystalton,Private
+336,35,Male,Hillchester,Medicaid
+337,29,Male,South Theresaburgh,Medicaid
+338,15,Female,Williamville,Self-Pay
+339,59,Female,Mariaside,Medicare
+340,17,Female,Adamsshire,Private
+341,68,Female,Jacquelinechester,Private
+342,18,Male,New Martin,Self-Pay
+343,15,Male,South Jenniferport,Self-Pay
+344,40,Female,Lake Scottton,Private
+345,56,Male,North William,Medicaid
+346,54,Female,Debbieside,Private
+347,35,Male,West Lisa,Private
+348,84,Male,South Victoria,Medicare
+349,16,Male,North Carolyn,Self-Pay
+350,71,Male,Pettyborough,Medicaid
+351,7,Male,Denisestad,Medicare
+352,2,Female,Laurenbury,Medicare
+353,50,Female,East Michaelstad,Self-Pay
+354,74,Male,West Marcus,Medicare
+355,84,Female,Lake Tammyview,Medicare
+356,63,Female,Daughertyburgh,Medicare
+357,13,Male,New Cody,Medicare
+358,76,Female,West Melissa,Medicaid
+359,17,Female,Stoneberg,Medicare
+360,65,Male,Port Amy,Private
+361,53,Female,North Lauraberg,Medicaid
+362,12,Female,North Diana,Private
+363,35,Female,Susanchester,Medicare
+364,14,Male,Arnoldview,Medicare
+365,31,Male,Shortchester,Medicare
+366,20,Female,North Markmouth,Medicaid
+367,30,Male,West Katrina,Medicaid
+368,62,Male,Allisonfurt,Self-Pay
+369,63,Female,Ramosport,Medicare
+370,21,Female,Beasleyville,Private
+371,43,Female,East Alexa,Medicaid
+372,71,Female,East Andrew,Private
+373,27,Female,Phillipsfort,Private
+374,73,Male,East Alexisberg,Medicare
+375,52,Male,Hutchinsonton,Private
+376,43,Male,New Michellemouth,Medicaid
+377,40,Male,Lake Stephenburgh,Medicaid
+378,71,Male,South Jorgetown,Medicaid
+379,48,Female,West Brooke,Medicare
+380,15,Male,Alexisview,Medicare
+381,21,Male,New Katie,Medicare
+382,7,Male,Jacksonstad,Medicare
+383,35,Male,New Christophermouth,Medicaid
+384,90,Female,New Brianna,Self-Pay
+385,68,Female,Jonesborough,Medicaid
+386,56,Female,Sosaport,Medicare
+387,39,Female,East Jennifer,Medicaid
+388,45,Male,West Peter,Self-Pay
+389,16,Male,North Carlosville,Medicare
+390,21,Female,South Zoe,Private
+391,14,Female,North Ronaldton,Self-Pay
+392,74,Female,Lake Matthewhaven,Medicare
+393,39,Female,Katrinafurt,Self-Pay
+394,77,Male,North Charles,Self-Pay
+395,79,Male,Molinamouth,Medicare
+396,40,Male,North Valerie,Medicaid
+397,39,Female,Port Christopherchester,Medicaid
+398,39,Male,East Robert,Private
+399,31,Male,North Jasonchester,Self-Pay
+400,60,Female,Boyermouth,Medicare
+401,77,Female,Nashhaven,Private
+402,64,Male,Rhondahaven,Medicaid
+403,9,Female,Mercadostad,Self-Pay
+404,8,Female,Mccoystad,Medicaid
+405,28,Female,West Johnberg,Medicare
+406,51,Male,Stevenchester,Private
+407,76,Male,Sandersmouth,Self-Pay
+408,37,Female,South Kaitlinport,Self-Pay
+409,41,Male,Kevinstad,Medicare
+410,71,Female,Sarahtown,Private
+411,75,Male,Kingbury,Medicare
+412,15,Male,Port Dawn,Private
+413,75,Female,Fordland,Private
+414,83,Male,South Williamstad,Medicare
+415,50,Female,Josephbury,Medicaid
+416,40,Male,South Rachel,Private
+417,56,Female,Moyertown,Self-Pay
+418,9,Male,Henryview,Self-Pay
+419,84,Female,South Vanessaland,Self-Pay
+420,71,Male,Carlmouth,Medicare
+421,29,Female,Nicoleside,Medicare
+422,43,Female,North Tonyatown,Medicare
+423,46,Female,Davidview,Private
+424,83,Female,Coxville,Medicare
+425,4,Male,East Amandaburgh,Self-Pay
+426,39,Female,South Richardmouth,Self-Pay
+427,66,Male,East Luis,Medicare
+428,88,Male,East Hannahshire,Medicare
+429,47,Female,North William,Self-Pay
+430,23,Female,Huertafurt,Self-Pay
+431,37,Female,Mooneyton,Self-Pay
+432,59,Female,North Perry,Medicare
+433,25,Male,North Sarah,Medicaid
+434,10,Male,East Carolyn,Medicaid
+435,16,Female,Port Christopher,Self-Pay
+436,39,Male,Bradburgh,Medicaid
+437,19,Female,Lake Kimberly,Medicaid
+438,25,Female,Johnsonfurt,Private
+439,3,Female,Jacobschester,Private
+440,70,Male,North Eric,Medicaid
+441,72,Female,East Saraton,Medicare
+442,31,Female,North Davidmouth,Private
+443,84,Female,New Steven,Private
+444,69,Male,Lake Josephton,Self-Pay
+445,67,Female,Jonesshire,Medicare
+446,23,Female,Flowershaven,Private
+447,3,Female,Loganshire,Medicaid
+448,13,Male,Port Moniqueberg,Self-Pay
+449,87,Male,Allenshire,Medicaid
+450,27,Male,West Emilybury,Private
+451,46,Female,Longfurt,Medicaid
+452,28,Female,Michaelmouth,Private
+453,9,Male,Daviston,Self-Pay
+454,34,Female,Jeremyfurt,Self-Pay
+455,13,Female,Paulmouth,Medicare
+456,52,Male,Port Gregoryside,Medicaid
+457,2,Male,Mahoneyton,Private
+458,23,Female,New John,Private
+459,83,Male,Christensenberg,Medicare
+460,75,Male,Friedmanborough,Private
+461,2,Male,Monroeport,Private
+462,39,Female,West Barbaraside,Self-Pay
+463,90,Male,Heatherview,Self-Pay
+464,20,Female,South Jerry,Self-Pay
+465,51,Male,East Stephenberg,Private
+466,37,Female,Lake Anthony,Private
+467,8,Male,South Timothyfort,Self-Pay
+468,90,Female,Lake Brucemouth,Private
+469,17,Female,Lake Oliviaburgh,Medicare
+470,1,Male,South Jesusfort,Self-Pay
+471,38,Male,North Robert,Self-Pay
+472,76,Female,New Joanne,Self-Pay
+473,48,Female,Port Jeffrey,Private
+474,82,Male,Bakerfurt,Medicaid
+475,47,Female,East Catherineton,Medicare
+476,58,Female,Lake Laura,Medicaid
+477,54,Male,Michelletown,Private
+478,73,Male,New Carlos,Medicaid
+479,60,Female,Stephenfurt,Self-Pay
+480,32,Male,Brownmouth,Private
+481,16,Female,Maxwellchester,Private
+482,54,Male,Paulstad,Private
+483,34,Male,Buckleyfort,Private
+484,22,Male,Crystalbury,Medicaid
+485,16,Male,South Josephton,Self-Pay
+486,32,Male,North Jennifer,Medicare
+487,82,Female,South Valerie,Medicaid
+488,90,Male,New Heather,Self-Pay
+489,90,Female,North Rebeccaborough,Medicare
+490,74,Male,Sandovalland,Medicare
+491,50,Male,Martinfurt,Private
+492,2,Female,Johnsonchester,Medicare
+493,51,Male,North Stephanie,Private
+494,35,Male,New Donaldfurt,Self-Pay
+495,40,Female,East Jennaview,Medicaid
+496,88,Male,Smithtown,Medicare
+497,27,Male,North Raymond,Medicare
+498,74,Female,Hannahbury,Medicaid
+499,78,Female,West Ianside,Self-Pay
+500,49,Male,Justinmouth,Self-Pay
+501,19,Female,North Dianeville,Medicare
+502,37,Female,Geraldchester,Self-Pay
+503,80,Female,Catherinehaven,Medicaid
+504,51,Male,South Daniel,Self-Pay
+505,48,Male,New James,Self-Pay
+506,83,Female,North Rebecca,Private
+507,31,Male,Clarkhaven,Medicare
+508,8,Male,Jodymouth,Self-Pay
+509,52,Female,Lake Leonard,Self-Pay
+510,9,Male,New Brittanyside,Private
+511,79,Female,Shepherdborough,Medicare
+512,81,Female,Michaelview,Self-Pay
+513,42,Female,Kimberlyshire,Self-Pay
+514,16,Female,East Chloe,Medicaid
+515,50,Male,North Derek,Medicaid
+516,69,Male,New Christopherburgh,Medicare
+517,63,Female,Port George,Private
+518,1,Male,Jamesville,Medicaid
+519,85,Male,Andersonview,Medicaid
+520,89,Male,Port Sarah,Medicaid
+521,14,Male,Mcdonaldmouth,Medicare
+522,51,Male,New Jasonville,Private
+523,59,Male,South Carla,Private
+524,19,Male,Lake Sherrifurt,Private
+525,13,Male,New Kellyberg,Medicaid
+526,85,Male,Lake Thomashaven,Self-Pay
+527,36,Male,West Michael,Self-Pay
+528,53,Male,Coopertown,Private
+529,65,Female,South Richard,Private
+530,56,Female,Lake Kristen,Private
+531,79,Male,Paulport,Self-Pay
+532,29,Male,West Lisashire,Private
+533,67,Female,Tuckerport,Medicaid
+534,69,Female,Joneschester,Medicare
+535,62,Male,New Hollymouth,Self-Pay
+536,64,Male,West Bruceland,Medicare
+537,61,Female,New Daniel,Medicare
+538,56,Female,West Yvetteville,Self-Pay
+539,87,Male,Kimberlyside,Medicaid
+540,35,Male,South Jasmineburgh,Medicaid
+541,90,Male,New Joseph,Medicare
+542,63,Male,Daniellemouth,Medicare
+543,65,Female,Andreabury,Medicaid
+544,46,Female,New Laura,Self-Pay
+545,11,Male,East Kimberlyville,Self-Pay
+546,34,Female,West Nicole,Medicaid
+547,74,Male,East Jenniferbury,Medicare
+548,30,Female,Benjaminview,Private
+549,1,Female,West Jessica,Medicaid
+550,8,Female,Markmouth,Medicaid
+551,31,Male,Millerbury,Medicaid
+552,73,Male,Allenhaven,Medicare
+553,81,Male,South Andrea,Self-Pay
+554,62,Male,North Amy,Medicare
+555,49,Male,Lynchmouth,Medicare
+556,44,Female,Lake Stevenbury,Medicaid
+557,55,Male,North Brandonstad,Medicare
+558,25,Male,New Alison,Medicare
+559,22,Female,South Gabrielberg,Medicaid
+560,66,Female,Dominguezland,Private
+561,15,Male,South Calvin,Private
+562,87,Female,North Andrew,Medicaid
+563,54,Male,West Jason,Self-Pay
+564,58,Male,Martinezside,Medicaid
+565,63,Female,East Nicole,Self-Pay
+566,16,Female,Lake Chelseyburgh,Private
+567,58,Male,Port Jenniferbury,Self-Pay
+568,33,Male,Biancafort,Medicaid
+569,44,Female,Littleshire,Private
+570,48,Female,Lake Gary,Medicare
+571,16,Male,North Jeffrey,Private
+572,78,Male,West Jill,Self-Pay
+573,33,Male,Marthaburgh,Medicaid
+574,43,Male,Jamesville,Medicare
+575,51,Male,North Shelbychester,Private
+576,86,Female,Lake Brandon,Medicaid
+577,72,Male,East Josephberg,Medicaid
+578,69,Female,Juliefort,Self-Pay
+579,4,Male,Bryantview,Private
+580,30,Female,Kingborough,Medicare
+581,7,Female,Lake Cynthiamouth,Self-Pay
+582,72,Male,West Anthonybury,Medicaid
+583,34,Male,West Nicole,Medicaid
+584,55,Female,Hectortown,Self-Pay
+585,27,Male,Ericaton,Medicare
+586,88,Female,Edwardfort,Private
+587,4,Female,South Jamestown,Self-Pay
+588,73,Female,Tranville,Private
+589,80,Female,North Vanessaview,Self-Pay
+590,34,Male,Beckyton,Private
+591,82,Female,New Kristenport,Private
+592,27,Female,West Wendy,Private
+593,63,Male,East Michael,Medicare
+594,58,Male,Brownberg,Medicare
+595,54,Female,North Dominique,Medicaid
+596,64,Female,Port Darius,Self-Pay
+597,89,Male,Rosston,Private
+598,89,Female,Grantchester,Medicare
+599,75,Female,Justinstad,Self-Pay
+600,17,Female,Wyatthaven,Private
+601,73,Male,North Terrence,Medicaid
+602,74,Male,Russellberg,Private
+603,90,Female,Lake Mary,Medicare
+604,17,Female,Stephaniemouth,Self-Pay
+605,80,Female,South Saraborough,Medicare
+606,26,Male,Michaelmouth,Self-Pay
+607,5,Female,West Stephaniemouth,Medicare
+608,45,Male,South Johnton,Private
+609,13,Female,Boonefort,Medicaid
+610,12,Female,Tannerstad,Self-Pay
+611,25,Female,Simmonsshire,Private
+612,11,Female,West Patrick,Medicaid
+613,85,Male,Heatherberg,Private
+614,17,Female,Port Davidberg,Medicare
+615,90,Male,Timothyberg,Medicaid
+616,58,Male,North Charles,Medicare
+617,70,Female,Bakerburgh,Private
+618,2,Male,Christopherton,Private
+619,3,Male,North Patriciafurt,Medicare
+620,77,Male,North Karen,Private
+621,9,Male,West Robin,Self-Pay
+622,26,Female,Jenkinsview,Private
+623,21,Male,Dennisshire,Private
+624,37,Female,South Karenton,Medicare
+625,59,Male,Carterfurt,Self-Pay
+626,55,Male,North Amy,Private
+627,56,Female,Foleyport,Medicaid
+628,43,Male,Montgomeryland,Medicaid
+629,87,Female,New Triciaborough,Medicaid
+630,28,Female,Patriciaborough,Medicaid
+631,84,Male,Stephaniefort,Self-Pay
+632,57,Female,Stephensonburgh,Medicaid
+633,88,Male,Ortegabury,Medicaid
+634,69,Female,New Dianefurt,Medicare
+635,79,Female,Christinaborough,Private
+636,51,Male,Carloshaven,Private
+637,68,Female,Teresamouth,Medicaid
+638,81,Female,Port Sean,Self-Pay
+639,51,Male,Michaelstad,Private
+640,65,Male,Birdberg,Medicaid
+641,9,Female,West James,Self-Pay
+642,12,Male,Port Emilyville,Self-Pay
+643,70,Male,South Tylerburgh,Medicaid
+644,20,Female,Lake Samuelburgh,Medicaid
+645,80,Female,North Samuel,Medicaid
+646,39,Female,Lake Tonya,Medicare
+647,39,Male,New Cynthiaton,Medicaid
+648,82,Male,New Roberta,Private
+649,90,Male,Williamsburgh,Private
+650,43,Female,New Marcusland,Medicaid
+651,79,Male,Lake Cynthia,Medicaid
+652,39,Female,Lisafurt,Private
+653,7,Female,Crystalbury,Private
+654,36,Female,Middletonmouth,Medicaid
+655,9,Male,Lake Erin,Medicare
+656,70,Female,West Isaiah,Medicare
+657,88,Male,New Melissaland,Private
+658,77,Female,North Lauraview,Private
+659,60,Male,East Laurie,Self-Pay
+660,4,Female,North David,Medicare
+661,26,Female,Port Timothy,Medicare
+662,89,Female,Davidton,Medicare
+663,9,Male,Port Mary,Self-Pay
+664,18,Female,Sheltonstad,Medicaid
+665,17,Female,Collinschester,Self-Pay
+666,53,Female,West Penny,Medicaid
+667,64,Male,East Vincent,Private
+668,81,Male,Goodmanville,Private
+669,36,Female,Lake Kevin,Medicaid
+670,24,Male,Brittanyshire,Medicaid
+671,48,Female,West Brendafort,Private
+672,12,Female,Lake Joshuahaven,Medicare
+673,7,Female,Edwardsside,Private
+674,71,Female,Kristopherchester,Medicaid
+675,90,Female,Kennethshire,Private
+676,48,Male,Caitlinland,Medicare
+677,30,Female,Port Scottberg,Self-Pay
+678,42,Male,East Susan,Medicare
+679,76,Male,Westmouth,Medicaid
+680,40,Male,Smithton,Medicare
+681,56,Female,West Brittany,Medicaid
+682,4,Female,Milesport,Self-Pay
+683,80,Female,Port Rachelport,Private
+684,9,Male,Grahamfort,Medicare
+685,61,Male,North Ann,Private
+686,45,Female,Danielmouth,Medicare
+687,35,Female,New Maria,Private
+688,71,Male,East April,Self-Pay
+689,55,Male,New Kimfort,Self-Pay
+690,66,Female,South Henry,Private
+691,76,Female,Alyssamouth,Self-Pay
+692,22,Male,East Christophertown,Medicare
+693,53,Female,New Valerie,Private
+694,34,Female,Baxtershire,Medicare
+695,28,Male,South Amandastad,Private
+696,40,Male,Woodside,Private
+697,21,Male,Williamfurt,Self-Pay
+698,66,Male,New Davidshire,Medicare
+699,85,Male,North Bryan,Private
+700,49,Female,New Susanchester,Medicare
+701,64,Male,New Dylan,Medicare
+702,16,Male,West Davidstad,Private
+703,83,Female,East James,Medicaid
+704,62,Male,Mosesshire,Private
+705,57,Male,Ianfort,Medicare
+706,87,Male,Watsonburgh,Private
+707,53,Male,Cowanbury,Private
+708,87,Female,East Marissa,Private
+709,89,Male,East Mary,Self-Pay
+710,30,Female,Tranberg,Self-Pay
+711,76,Male,Vasquezfort,Medicaid
+712,7,Male,Romerobury,Private
+713,81,Female,East Alice,Medicaid
+714,76,Male,Crawfordside,Private
+715,30,Male,South William,Private
+716,89,Female,Paulview,Medicare
+717,60,Male,New Dennistown,Medicaid
+718,6,Female,Lake Jameschester,Medicaid
+719,50,Male,East Jenniferbury,Medicare
+720,38,Female,East Carol,Self-Pay
+721,64,Male,Longville,Medicare
+722,44,Male,Lake Rebecca,Medicaid
+723,70,Female,Ambershire,Medicaid
+724,15,Male,East Lisa,Medicare
+725,12,Female,Kristenmouth,Medicaid
+726,86,Male,East John,Private
+727,33,Male,East Cheryl,Medicaid
+728,47,Female,Lucasstad,Private
+729,54,Male,West Zachary,Self-Pay
+730,76,Female,Orrburgh,Medicaid
+731,16,Male,South Aaron,Private
+732,87,Female,Lake Darrylland,Self-Pay
+733,40,Male,South Luis,Private
+734,27,Female,East Derek,Private
+735,6,Female,New Andreamouth,Medicare
+736,57,Female,Jenniferhaven,Self-Pay
+737,72,Female,Vaughanstad,Medicare
+738,4,Female,Danielside,Medicare
+739,83,Male,East Codyville,Private
+740,71,Female,South Tracy,Medicare
+741,34,Male,South Brendanport,Medicare
+742,53,Female,Danaburgh,Medicare
+743,72,Female,Port Andrew,Medicare
+744,80,Male,Carrville,Medicaid
+745,3,Male,Lake Isaacton,Medicare
+746,41,Female,Pamelachester,Medicaid
+747,12,Male,Port Kimberly,Self-Pay
+748,80,Female,Guerreroland,Private
+749,2,Female,Martinborough,Medicaid
+750,85,Female,North Robertbury,Self-Pay
+751,60,Female,Taylorhaven,Self-Pay
+752,45,Female,East Kevin,Self-Pay
+753,51,Female,Josephmouth,Self-Pay
+754,84,Male,North Sheila,Medicare
+755,75,Female,Liuchester,Private
+756,8,Female,Charlenehaven,Self-Pay
+757,9,Male,Perezside,Medicare
+758,54,Male,Elizabethstad,Medicare
+759,90,Male,Baileybury,Private
+760,38,Male,South Geraldland,Private
+761,41,Female,West Williamhaven,Private
+762,18,Female,North Ann,Self-Pay
+763,72,Female,North Amandaland,Medicaid
+764,79,Female,Port Scottshire,Medicare
+765,88,Female,Lake Angelaland,Medicare
+766,51,Female,Cherylview,Medicare
+767,20,Male,South Natalie,Self-Pay
+768,44,Female,Curtisstad,Private
+769,17,Female,South Alexander,Private
+770,45,Male,Meganburgh,Medicaid
+771,87,Male,East Maryland,Self-Pay
+772,65,Male,Alexanderville,Self-Pay
+773,43,Female,Jerrytown,Medicaid
+774,20,Male,North Jenniferfurt,Self-Pay
+775,22,Male,Ellismouth,Medicare
+776,75,Male,East Barbara,Self-Pay
+777,4,Female,West Michellehaven,Medicaid
+778,24,Male,South Sarah,Self-Pay
+779,65,Male,New Sarahton,Private
+780,61,Male,Meganside,Private
+781,53,Male,Clarkville,Medicare
+782,84,Female,New Josephtown,Medicaid
+783,70,Male,South Jennifer,Self-Pay
+784,52,Male,Samuelshire,Medicare
+785,46,Male,Brianport,Private
+786,6,Female,Kleinside,Medicaid
+787,71,Male,New Evanburgh,Medicaid
+788,14,Male,East Victoria,Medicare
+789,34,Female,Rosariofurt,Private
+790,2,Male,Houstonmouth,Self-Pay
+791,64,Male,South Josebury,Medicare
+792,41,Female,New Teresaview,Medicare
+793,84,Female,North Robertton,Medicare
+794,17,Male,Meaganmouth,Medicare
+795,55,Male,Wilsonburgh,Self-Pay
+796,9,Female,Port Tinabury,Medicare
+797,60,Male,Port Melvin,Self-Pay
+798,2,Male,East Adamhaven,Medicare
+799,90,Male,Jonathanside,Private
+800,49,Male,North Mauriceland,Medicare
+801,1,Male,West Evanville,Medicare
+802,60,Male,North Rachel,Private
+803,43,Male,Lake Amber,Private
+804,81,Female,New Miranda,Medicare
+805,8,Female,New Anna,Medicare
+806,86,Female,Maryborough,Self-Pay
+807,26,Male,Port Ronald,Medicare
+808,64,Male,Keyhaven,Self-Pay
+809,62,Female,Grahamville,Medicaid
+810,86,Male,New Cameronhaven,Self-Pay
+811,6,Female,Charlestown,Private
+812,60,Male,West Andrewborough,Medicare
+813,84,Male,North Luis,Private
+814,80,Male,Port Austinfort,Medicaid
+815,76,Male,Port Carla,Self-Pay
+816,11,Male,Lindafort,Self-Pay
+817,9,Female,Thompsonborough,Self-Pay
+818,41,Female,Karenview,Medicaid
+819,53,Female,Port Patrick,Self-Pay
+820,4,Female,West Tyrone,Medicare
+821,83,Male,Lake Jodybury,Medicare
+822,19,Female,New Natashachester,Self-Pay
+823,2,Male,Pattersonbury,Self-Pay
+824,61,Male,North Alexanderstad,Self-Pay
+825,71,Female,Salazarchester,Self-Pay
+826,41,Male,Foxfurt,Private
+827,85,Male,East Marc,Private
+828,29,Female,East Randychester,Medicare
+829,37,Male,West Lisaville,Self-Pay
+830,55,Female,North Michael,Medicaid
+831,9,Male,Lake Brandonhaven,Medicare
+832,87,Male,Wareshire,Medicaid
+833,4,Male,Williamshaven,Private
+834,26,Female,South Anna,Medicare
+835,44,Female,New Cassandramouth,Medicaid
+836,6,Female,Debratown,Private
+837,87,Female,Chenshire,Private
+838,88,Male,West Erikside,Private
+839,61,Male,Timothyhaven,Self-Pay
+840,50,Male,West John,Medicaid
+841,53,Male,North Timothy,Medicare
+842,76,Male,Marcustown,Private
+843,74,Female,Taylorchester,Private
+844,74,Male,New Gabriel,Medicaid
+845,26,Male,North Victor,Self-Pay
+846,79,Female,New Michael,Private
+847,89,Male,Johnchester,Medicare
+848,60,Male,Nataliefurt,Medicare
+849,67,Female,Port Mark,Medicaid
+850,70,Male,Port Davidton,Medicare
+851,16,Female,East Lisa,Medicaid
+852,31,Female,Hamiltonhaven,Medicaid
+853,38,Male,South Douglas,Self-Pay
+854,39,Female,South Kimberlymouth,Medicaid
+855,82,Male,Thomasberg,Self-Pay
+856,61,Female,Christinebury,Self-Pay
+857,70,Female,West Terry,Self-Pay
+858,6,Female,North Lindseyfurt,Medicare
+859,65,Female,Barreraton,Medicaid
+860,36,Male,North Tiffanymouth,Private
+861,73,Male,Hallchester,Medicare
+862,86,Male,West Wendy,Medicare
+863,58,Male,Port Michael,Private
+864,50,Female,Gabriellefort,Self-Pay
+865,6,Female,Johnton,Medicaid
+866,4,Male,Benjaminborough,Self-Pay
+867,5,Male,Kennedyburgh,Private
+868,81,Female,New Phyllisport,Medicaid
+869,51,Male,Brownton,Medicaid
+870,80,Female,Aaronhaven,Self-Pay
+871,7,Female,South Samuelside,Private
+872,64,Male,East Gregorymouth,Medicaid
+873,18,Female,Lake Kim,Medicaid
+874,15,Female,Monicachester,Medicaid
+875,4,Male,Simpsonhaven,Medicaid
+876,49,Male,Port Richardstad,Medicare
+877,36,Male,Bryanbury,Medicare
+878,62,Female,Keithbury,Private
+879,33,Female,Roachton,Self-Pay
+880,64,Male,Herreraton,Medicaid
+881,55,Male,Jeanneville,Medicare
+882,85,Female,West Kimberlyville,Self-Pay
+883,42,Male,Buckbury,Medicare
+884,17,Male,West Steven,Private
+885,33,Male,Lake Marc,Private
+886,67,Female,Austinton,Medicaid
+887,43,Female,Port Rickyland,Private
+888,24,Female,North Sara,Self-Pay
+889,14,Female,North Joshuafort,Private
+890,71,Male,Donnaport,Medicaid
+891,86,Female,Kennedymouth,Private
+892,89,Male,South Jose,Medicare
+893,46,Male,Port Patricia,Medicaid
+894,74,Male,Keithhaven,Private
+895,14,Female,East George,Self-Pay
+896,14,Female,Port Tyler,Medicare
+897,43,Female,East Juan,Private
+898,14,Female,Lake John,Self-Pay
+899,85,Female,New Melissa,Private
+900,21,Male,Morrishaven,Private
+901,39,Female,Joannchester,Medicaid
+902,19,Female,Saraland,Private
+903,5,Female,New Johnnymouth,Medicaid
+904,32,Male,New Heatherborough,Private
+905,42,Male,Port Kelseyport,Self-Pay
+906,29,Male,Lake Victoriamouth,Medicaid
+907,14,Female,Lake Shawnastad,Private
+908,74,Female,Padillaland,Medicare
+909,31,Male,Annfort,Medicaid
+910,35,Female,Tiffanyfurt,Medicaid
+911,83,Female,Angelaport,Self-Pay
+912,41,Female,Nicoleshire,Self-Pay
+913,7,Female,East Janet,Self-Pay
+914,6,Female,South Michael,Private
+915,26,Male,North Gabrielle,Self-Pay
+916,26,Male,Nguyenhaven,Self-Pay
+917,73,Female,East Joannaview,Medicare
+918,6,Male,South Jonathan,Private
+919,32,Female,East James,Medicare
+920,72,Male,Laurachester,Private
+921,60,Male,Joanshire,Self-Pay
+922,88,Male,Patriciaview,Private
+923,59,Male,East John,Self-Pay
+924,48,Female,Schwartzview,Self-Pay
+925,72,Male,Lake Benjamin,Self-Pay
+926,56,Male,Port Cody,Medicaid
+927,31,Female,West Elizabeth,Self-Pay
+928,32,Male,Lake Kellyville,Private
+929,36,Female,Courtneyfurt,Private
+930,58,Female,South Ryanstad,Self-Pay
+931,34,Female,Lake Amanda,Private
+932,74,Male,Ballardstad,Medicare
+933,42,Male,Rushfort,Private
+934,80,Male,Lake Heatherhaven,Medicaid
+935,64,Male,Port Nicole,Medicare
+936,20,Female,Brittanytown,Medicaid
+937,60,Female,New Samanthachester,Medicare
+938,18,Female,South Robert,Medicare
+939,9,Male,Lake Michaelmouth,Medicare
+940,31,Female,Simmonsmouth,Private
+941,55,Male,Port Dianetown,Medicare
+942,3,Male,South Chadberg,Self-Pay
+943,62,Female,East Donport,Private
+944,11,Male,Heiditown,Medicare
+945,13,Male,Lake Heather,Medicaid
+946,2,Female,East Tiffanystad,Medicare
+947,45,Male,Lisaton,Medicare
+948,30,Male,Boyleshire,Private
+949,4,Female,South Katherine,Medicaid
+950,42,Female,South Brendaport,Medicaid
+951,88,Female,West Andreland,Private
+952,75,Male,Cummingsborough,Private
+953,84,Male,Vanessachester,Medicare
+954,50,Female,Marcusland,Self-Pay
+955,22,Male,Brendamouth,Private
+956,65,Male,Johnsonfort,Private
+957,24,Male,Sparksfurt,Medicaid
+958,45,Male,Reginaborough,Medicare
+959,31,Female,Port Jeremy,Medicare
+960,62,Female,Snydershire,Medicare
+961,34,Female,Lake Lisafort,Medicaid
+962,19,Male,Sweeneyshire,Medicaid
+963,50,Female,South Brittney,Private
+964,64,Male,Justinview,Medicare
+965,10,Female,Port Anne,Self-Pay
+966,45,Male,Lake Melissa,Self-Pay
+967,75,Male,Adamsmouth,Medicare
+968,22,Female,New Markside,Medicare
+969,52,Male,Port Heather,Medicare
+970,28,Male,Port Jeremy,Medicaid
+971,29,Female,East Carlbury,Self-Pay
+972,8,Female,West Jon,Private
+973,4,Female,Lake Scott,Medicaid
+974,31,Male,New Barbara,Private
+975,56,Female,New Melissaside,Self-Pay
+976,66,Male,Heiditown,Private
+977,17,Male,New Larryland,Medicaid
+978,49,Female,New Megan,Medicare
+979,13,Male,Martinside,Medicare
+980,66,Male,Howardview,Medicare
+981,72,Male,Lake Kristinborough,Medicaid
+982,50,Male,West Andrewfurt,Self-Pay
+983,87,Female,North Josephmouth,Medicaid
+984,8,Female,North Aprilmouth,Medicaid
+985,77,Female,Lisaville,Self-Pay
+986,65,Female,Port Coreyville,Self-Pay
+987,19,Female,South Victoria,Private
+988,60,Female,North Daniel,Medicaid
+989,68,Female,New Amandabury,Medicare
+990,35,Male,Gibbsview,Private
+991,84,Male,Whitestad,Self-Pay
+992,32,Female,West Mark,Medicaid
+993,22,Female,South Josephmouth,Private
+994,76,Female,South Matthew,Self-Pay
+995,77,Male,East Mikeburgh,Private
+996,76,Female,Stevenmouth,Self-Pay
+997,88,Female,Port Rebecca,Self-Pay
+998,12,Male,Lake Sheriborough,Medicare
+999,2,Female,West Sarah,Self-Pay
+1000,47,Male,Gracechester,Private
