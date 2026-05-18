@@ -32,3 +32,33 @@ patients_df.to_csv(
 )
 
 print("patients.cvs generated")
+
+# Generate providers data: provider_id, provider_name, specialty
+
+NUM_PROVIDERS = 25
+
+specialties = [
+    "Cardiology",
+    "Dermatology",
+    "Pediatrics",
+    "Orthopedics",
+    "Neurology"
+]
+
+providers = []
+
+for provider_id in range(1, NUM_PROVIDERS + 1):
+    providers.append({
+        "provider_id": provider_id,
+        "provider_name": fake.name(),
+        "specialty": random.choice(specialties)
+    })
+
+providers_df = pd.DataFrame(providers)
+
+providers_df.to_csv(
+    "../data/raw/providers.csv",
+    index=False
+)
+
+print("providers.csv generated")
