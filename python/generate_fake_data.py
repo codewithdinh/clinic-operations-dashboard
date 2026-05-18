@@ -12,7 +12,7 @@ patients = []
 
 for patient_id in range(1, NUM_PATIENTS + 1):
     patients.append({
-        "patients_id": patient_id,
+        "patient_id": patient_id,
         "age": random.randint(1, 90),
         "gender": random.choice(["Male", "Female"]),
         "city": fake.city(),
