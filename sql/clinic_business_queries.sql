@@ -150,3 +150,39 @@ SELECT
 FROM appointments
 GROUP BY weekday
 ORDER BY total_appointments DESC;
+
+-- Providers with longest wait times
+
+SELECT
+    p.provider_name,
+    ROUND(AVG(wait_time_minutes)::numeric, 2) AS avg_wait_time
+FROM appointments a
+JOIN providers p
+ON a.provider_id = p.provider_id
+WHERE a.status = 'Completed'
+GROUP BY p.provider_name
+ORDER BY avg_wait_time DESC
+LIMIT 10;
+
+-- Provider workload
+
+SELECT
+    p.provider_name,
+    ROUND(SUM(a.visit_duration_minutes::numeric)/60, 2) AS hours_with_patients
+FROM appointments a
+JOIN providers p
+ON a.provider_id = p.provider_id
+WHERE a.status = 'Completed'
+GROUP BY p.provider_name
+ORDER BY hours_with_patients DESC;
+
+-- Outstanding balance analysis
+
+SELECT
+    payment_status,
+    COUNT(*) AS invoices,
+    ROUND(SUM(outstanding_balance), 2) AS outstanding_amount
+FROM billing
+WHERE outstanding_balance > 0
+GROUP BY payment_status
+ORDER BY outstanding_amount DESC;
